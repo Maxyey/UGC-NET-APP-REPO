@@ -1,10 +1,10 @@
 {
-  "updatedAt": 1790541137042,
+  "updatedAt": 1790541142092,
   "userId": "maxy",
   "displayName": "Maxy",
   "email": "genuineiswarari@gmail.com",
   "totalQuestions": 18,
-  "totalSessions": 1,
+  "totalSessions": 0,
   "totalAttempts": 230,
   "questions": [
     {
@@ -422,26 +422,7 @@
       "customOrder": 0
     }
   ],
-  "sessions": [
-    {
-      "sessionId": "sess_1790532287649",
-      "userId": "maxy",
-      "testName": "2024 June Shift 1 History",
-      "paperType": "HISTORY",
-      "year": "2024",
-      "totalQuestions": 19,
-      "correctCount": 1,
-      "wrongCount": 3,
-      "unattemptedCount": 15,
-      "score": 2,
-      "maxScore": 38,
-      "accuracyPercentage": 25,
-      "totalTimeSeconds": 18,
-      "timestamp": 1790532287649,
-      "unitBreakdownJson": "{\"Unit 1: Sources & Pre-history\":\"1\\\/3\",\"Unit 2: From State to Empire\":\"0\\\/2\",\"Unit 4: Source of Medieval Indian History\":\"0\\\/2\",\"Unit 6: Society and Culture in Medieval India\":\"0\\\/1\",\"Unit 5: Administration & Economy in Medieval India\":\"0\\\/2\",\"Unit 7: Sources of Modern Indian History\":\"0\\\/1\",\"Unit 8: Colonial Economy\":\"0\\\/4\",\"Unit 9: Rise of Indian Nationalism\":\"0\\\/3\",\"Unit 3: Emergence of Regional Kingdoms\":\"0\\\/1\"}",
-      "questionAttemptsJson": ""
-    }
-  ],
+  "sessions": [],
   "attempts": [
     {
       "userId": "maxy",
