@@ -1,15 +1,15 @@
 {
-  "updatedAt": 1790534064139,
+  "updatedAt": 1790538616308,
   "userId": "maxy",
   "displayName": "Maxy",
   "email": "genuineiswarari@gmail.com",
-  "totalQuestions": 19,
+  "totalQuestions": 18,
   "totalSessions": 2,
-  "totalAttempts": 27,
+  "totalAttempts": 40,
   "questions": [
     {
       "id": 1,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 1: Sources & Pre-history",
       "year": "2024",
@@ -32,7 +32,7 @@
     },
     {
       "id": 2,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 2: From State to Empire",
       "year": "2024",
@@ -55,7 +55,7 @@
     },
     {
       "id": 3,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 1: Sources & Pre-history",
       "year": "2024",
@@ -78,7 +78,7 @@
     },
     {
       "id": 4,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 4: Source of Medieval Indian History",
       "year": "2024",
@@ -101,7 +101,7 @@
     },
     {
       "id": 5,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 6: Society and Culture in Medieval India",
       "year": "2024",
@@ -124,7 +124,7 @@
     },
     {
       "id": 6,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 5: Administration & Economy in Medieval India",
       "year": "2024",
@@ -147,7 +147,7 @@
     },
     {
       "id": 7,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 7: Sources of Modern Indian History",
       "year": "2024",
@@ -170,7 +170,7 @@
     },
     {
       "id": 8,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 8: Colonial Economy",
       "year": "2024",
@@ -193,7 +193,7 @@
     },
     {
       "id": 9,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 8: Colonial Economy",
       "year": "2024",
@@ -216,7 +216,7 @@
     },
     {
       "id": 10,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 9: Rise of Indian Nationalism",
       "year": "2024",
@@ -239,7 +239,7 @@
     },
     {
       "id": 11,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 9: Rise of Indian Nationalism",
       "year": "2024",
@@ -262,7 +262,7 @@
     },
     {
       "id": 12,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 1: Sources & Pre-history",
       "year": "2024",
@@ -285,7 +285,7 @@
     },
     {
       "id": 13,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 2: From State to Empire",
       "year": "2024",
@@ -308,7 +308,7 @@
     },
     {
       "id": 14,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 3: Emergence of Regional Kingdoms",
       "year": "2024",
@@ -331,7 +331,7 @@
     },
     {
       "id": 15,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 4: Source of Medieval Indian History",
       "year": "2024",
@@ -354,7 +354,7 @@
     },
     {
       "id": 16,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 5: Administration & Economy in Medieval India",
       "year": "2024",
@@ -377,7 +377,7 @@
     },
     {
       "id": 17,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 9: Rise of Indian Nationalism",
       "year": "2024",
@@ -400,7 +400,7 @@
     },
     {
       "id": 18,
-      "userId": "default",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 8: Colonial Economy",
       "year": "2024",
@@ -420,36 +420,12 @@
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790530574983,
       "customOrder": 0
-    },
-    {
-      "id": 19,
-      "userId": "default",
-      "paperType": "HISTORY",
-      "unitName": "Unit 8: Colonial Economy",
-      "year": "2024",
-      "testName": "2024 June Shift 1 History",
-      "questionText": "45. Match the List-I with List-II and choose your answer from the codes given below:",
-      "optionA": "A-3, B-4, C-1, D-2",
-      "optionB": "A-3, B-4, C-2, D-1",
-      "optionC": "A-3, B-2, C-1, D-4",
-      "optionD": "A-1, B-3, C-4, D-2",
-      "correctAnswer": "A",
-      "explanation": "Matches the codes structure provided for the question.",
-      "questionType": "TABLE",
-      "tableDataJson": "",
-      "graphImageUrl": "",
-      "repeatYears": "2024",
-      "difficulty": "Medium",
-      "cognitiveLevel": "Recall",
-      "createdAtTimestamp": 1790530574983,
-      "customOrder": 0
     }
   ],
   "sessions": [
     {
-      "id": 1,
-      "userId": "default",
       "sessionId": "sess_1790532287649",
+      "userId": "maxy",
       "testName": "2024 June Shift 1 History",
       "paperType": "HISTORY",
       "year": "2024",
@@ -466,9 +442,8 @@
       "questionAttemptsJson": ""
     },
     {
-      "id": 2,
-      "userId": "default",
       "sessionId": "sess_1790532345078",
+      "userId": "maxy",
       "testName": "2024 June Shift 1 History",
       "paperType": "HISTORY",
       "year": "2024",
@@ -487,8 +462,7 @@
   ],
   "attempts": [
     {
-      "id": 1,
-      "userId": "default",
+      "userId": "genuine_jis",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -497,8 +471,7 @@
       "timestamp": 1790532262128
     },
     {
-      "id": 2,
-      "userId": "default",
+      "userId": "genuine_jis",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "C",
@@ -507,8 +480,7 @@
       "timestamp": 1790532266740
     },
     {
-      "id": 3,
-      "userId": "default",
+      "userId": "genuine_jis",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -517,8 +489,7 @@
       "timestamp": 1790532270379
     },
     {
-      "id": 4,
-      "userId": "default",
+      "userId": "genuine_jis",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "B",
@@ -527,8 +498,7 @@
       "timestamp": 1790532273833
     },
     {
-      "id": 5,
-      "userId": "default",
+      "userId": "genuine_jis",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -537,8 +507,7 @@
       "timestamp": 1790532318447
     },
     {
-      "id": 6,
-      "userId": "default",
+      "userId": "genuine_jis",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "B",
@@ -547,8 +516,7 @@
       "timestamp": 1790532322832
     },
     {
-      "id": 7,
-      "userId": "default",
+      "userId": "genuine_jis",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -557,8 +525,7 @@
       "timestamp": 1790532326547
     },
     {
-      "id": 8,
-      "userId": "default",
+      "userId": "genuine_jis",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "D",
@@ -567,8 +534,7 @@
       "timestamp": 1790532329513
     },
     {
-      "id": 9,
-      "userId": "default",
+      "userId": "genuine_jis",
       "sessionId": "",
       "questionId": 5,
       "selectedAnswer": "B",
@@ -577,8 +543,16 @@
       "timestamp": 1790532332412
     },
     {
-      "id": 10,
-      "userId": "default",
+      "userId": "",
+      "sessionId": "",
+      "questionId": 1,
+      "selectedAnswer": "A",
+      "isCorrect": false,
+      "timeSpentSeconds": 15,
+      "timestamp": 1790536789508
+    },
+    {
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -587,8 +561,7 @@
       "timestamp": 1790532262128
     },
     {
-      "id": 11,
-      "userId": "default",
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "C",
@@ -597,8 +570,7 @@
       "timestamp": 1790532266740
     },
     {
-      "id": 12,
-      "userId": "default",
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -607,8 +579,7 @@
       "timestamp": 1790532270379
     },
     {
-      "id": 13,
-      "userId": "default",
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "B",
@@ -617,8 +588,7 @@
       "timestamp": 1790532273833
     },
     {
-      "id": 14,
-      "userId": "default",
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -627,8 +597,7 @@
       "timestamp": 1790532318447
     },
     {
-      "id": 15,
-      "userId": "default",
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "B",
@@ -637,8 +606,7 @@
       "timestamp": 1790532322832
     },
     {
-      "id": 16,
-      "userId": "default",
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -647,8 +615,7 @@
       "timestamp": 1790532326547
     },
     {
-      "id": 17,
-      "userId": "default",
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "D",
@@ -657,8 +624,7 @@
       "timestamp": 1790532329513
     },
     {
-      "id": 18,
-      "userId": "default",
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 5,
       "selectedAnswer": "B",
@@ -667,8 +633,7 @@
       "timestamp": 1790532332412
     },
     {
-      "id": 19,
-      "userId": "default",
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -677,8 +642,7 @@
       "timestamp": 1790532262128
     },
     {
-      "id": 20,
-      "userId": "default",
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "C",
@@ -687,8 +651,7 @@
       "timestamp": 1790532266740
     },
     {
-      "id": 21,
-      "userId": "default",
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -697,8 +660,7 @@
       "timestamp": 1790532270379
     },
     {
-      "id": 22,
-      "userId": "default",
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "B",
@@ -707,8 +669,7 @@
       "timestamp": 1790532273833
     },
     {
-      "id": 23,
-      "userId": "default",
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -717,8 +678,7 @@
       "timestamp": 1790532318447
     },
     {
-      "id": 24,
-      "userId": "default",
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "B",
@@ -727,8 +687,7 @@
       "timestamp": 1790532322832
     },
     {
-      "id": 25,
-      "userId": "default",
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -737,8 +696,7 @@
       "timestamp": 1790532326547
     },
     {
-      "id": 26,
-      "userId": "default",
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "D",
@@ -747,14 +705,121 @@
       "timestamp": 1790532329513
     },
     {
-      "id": 27,
-      "userId": "default",
+      "userId": "maxy",
       "sessionId": "",
       "questionId": 5,
       "selectedAnswer": "B",
       "isCorrect": false,
       "timeSpentSeconds": 15,
       "timestamp": 1790532332412
+    },
+    {
+      "userId": "maxy",
+      "sessionId": "",
+      "questionId": 1,
+      "selectedAnswer": "B",
+      "isCorrect": false,
+      "timeSpentSeconds": 15,
+      "timestamp": 1790532262128
+    },
+    {
+      "userId": "maxy",
+      "sessionId": "",
+      "questionId": 2,
+      "selectedAnswer": "C",
+      "isCorrect": false,
+      "timeSpentSeconds": 15,
+      "timestamp": 1790532266740
+    },
+    {
+      "userId": "maxy",
+      "sessionId": "",
+      "questionId": 3,
+      "selectedAnswer": "B",
+      "isCorrect": true,
+      "timeSpentSeconds": 15,
+      "timestamp": 1790532270379
+    },
+    {
+      "userId": "maxy",
+      "sessionId": "",
+      "questionId": 4,
+      "selectedAnswer": "B",
+      "isCorrect": false,
+      "timeSpentSeconds": 15,
+      "timestamp": 1790532273833
+    },
+    {
+      "userId": "maxy",
+      "sessionId": "",
+      "questionId": 1,
+      "selectedAnswer": "B",
+      "isCorrect": false,
+      "timeSpentSeconds": 15,
+      "timestamp": 1790532318447
+    },
+    {
+      "userId": "maxy",
+      "sessionId": "",
+      "questionId": 2,
+      "selectedAnswer": "B",
+      "isCorrect": true,
+      "timeSpentSeconds": 15,
+      "timestamp": 1790532322832
+    },
+    {
+      "userId": "maxy",
+      "sessionId": "",
+      "questionId": 3,
+      "selectedAnswer": "B",
+      "isCorrect": true,
+      "timeSpentSeconds": 15,
+      "timestamp": 1790532326547
+    },
+    {
+      "userId": "maxy",
+      "sessionId": "",
+      "questionId": 4,
+      "selectedAnswer": "D",
+      "isCorrect": false,
+      "timeSpentSeconds": 15,
+      "timestamp": 1790532329513
+    },
+    {
+      "userId": "maxy",
+      "sessionId": "",
+      "questionId": 5,
+      "selectedAnswer": "B",
+      "isCorrect": false,
+      "timeSpentSeconds": 15,
+      "timestamp": 1790532332412
+    },
+    {
+      "userId": "maxy",
+      "sessionId": "",
+      "questionId": 1,
+      "selectedAnswer": "B",
+      "isCorrect": false,
+      "timeSpentSeconds": 15,
+      "timestamp": 1790538155145
+    },
+    {
+      "userId": "maxy",
+      "sessionId": "",
+      "questionId": 2,
+      "selectedAnswer": "B",
+      "isCorrect": true,
+      "timeSpentSeconds": 15,
+      "timestamp": 1790538159485
+    },
+    {
+      "userId": "maxy",
+      "sessionId": "",
+      "questionId": 3,
+      "selectedAnswer": "C",
+      "isCorrect": false,
+      "timeSpentSeconds": 15,
+      "timestamp": 1790538162132
     }
   ]
 }
