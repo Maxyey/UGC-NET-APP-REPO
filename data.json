@@ -1,10 +1,10 @@
 {
-  "updatedAt": 1790540047950,
-  "userId": "genuine_jis",
-  "displayName": "Candidate",
-  "email": "genuineiswarari@gmail.com",
+  "updatedAt": 1790540396533,
+  "userId": "genu",
+  "displayName": "genu",
+  "email": "garbarrocs@gmail.com",
   "totalQuestions": 18,
-  "totalSessions": 2,
+  "totalSessions": 1,
   "totalAttempts": 160,
   "questions": [
     {
@@ -424,24 +424,6 @@
   ],
   "sessions": [
     {
-      "sessionId": "sess_1790532287649",
-      "userId": "genu",
-      "testName": "2024 June Shift 1 History",
-      "paperType": "HISTORY",
-      "year": "2024",
-      "totalQuestions": 19,
-      "correctCount": 1,
-      "wrongCount": 3,
-      "unattemptedCount": 15,
-      "score": 2,
-      "maxScore": 38,
-      "accuracyPercentage": 25,
-      "totalTimeSeconds": 18,
-      "timestamp": 1790532287649,
-      "unitBreakdownJson": "{\"Unit 1: Sources & Pre-history\":\"1\\\/3\",\"Unit 2: From State to Empire\":\"0\\\/2\",\"Unit 4: Source of Medieval Indian History\":\"0\\\/2\",\"Unit 6: Society and Culture in Medieval India\":\"0\\\/1\",\"Unit 5: Administration & Economy in Medieval India\":\"0\\\/2\",\"Unit 7: Sources of Modern Indian History\":\"0\\\/1\",\"Unit 8: Colonial Economy\":\"0\\\/4\",\"Unit 9: Rise of Indian Nationalism\":\"0\\\/3\",\"Unit 3: Emergence of Regional Kingdoms\":\"0\\\/1\"}",
-      "questionAttemptsJson": ""
-    },
-    {
       "sessionId": "sess_1790532345078",
       "userId": "genu",
       "testName": "2024 June Shift 1 History",
@@ -462,7 +444,7 @@
   ],
   "attempts": [
     {
-      "userId": "genuine_jis",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -471,7 +453,7 @@
       "timestamp": 1790532262128
     },
     {
-      "userId": "genuine_jis",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "C",
@@ -480,7 +462,7 @@
       "timestamp": 1790532266740
     },
     {
-      "userId": "genuine_jis",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -489,7 +471,7 @@
       "timestamp": 1790532270379
     },
     {
-      "userId": "genuine_jis",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "B",
@@ -498,7 +480,7 @@
       "timestamp": 1790532273833
     },
     {
-      "userId": "genuine_jis",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -507,7 +489,7 @@
       "timestamp": 1790532318447
     },
     {
-      "userId": "genuine_jis",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "B",
@@ -516,7 +498,7 @@
       "timestamp": 1790532322832
     },
     {
-      "userId": "genuine_jis",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -525,7 +507,7 @@
       "timestamp": 1790532326547
     },
     {
-      "userId": "genuine_jis",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "D",
@@ -534,7 +516,7 @@
       "timestamp": 1790532329513
     },
     {
-      "userId": "genuine_jis",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 5,
       "selectedAnswer": "B",
@@ -543,7 +525,7 @@
       "timestamp": 1790532332412
     },
     {
-      "userId": "",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "A",
@@ -552,7 +534,7 @@
       "timestamp": 1790536789508
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -561,7 +543,7 @@
       "timestamp": 1790532262128
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "C",
@@ -570,7 +552,7 @@
       "timestamp": 1790532266740
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -579,7 +561,7 @@
       "timestamp": 1790532270379
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "B",
@@ -588,7 +570,7 @@
       "timestamp": 1790532273833
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -597,7 +579,7 @@
       "timestamp": 1790532318447
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "B",
@@ -606,7 +588,7 @@
       "timestamp": 1790532322832
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -615,7 +597,7 @@
       "timestamp": 1790532326547
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "D",
@@ -624,7 +606,7 @@
       "timestamp": 1790532329513
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 5,
       "selectedAnswer": "B",
@@ -633,7 +615,7 @@
       "timestamp": 1790532332412
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -642,7 +624,7 @@
       "timestamp": 1790532262128
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "C",
@@ -651,7 +633,7 @@
       "timestamp": 1790532266740
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -660,7 +642,7 @@
       "timestamp": 1790532270379
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "B",
@@ -669,7 +651,7 @@
       "timestamp": 1790532273833
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -678,7 +660,7 @@
       "timestamp": 1790532318447
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "B",
@@ -687,7 +669,7 @@
       "timestamp": 1790532322832
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -696,7 +678,7 @@
       "timestamp": 1790532326547
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "D",
@@ -705,7 +687,7 @@
       "timestamp": 1790532329513
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 5,
       "selectedAnswer": "B",
@@ -714,7 +696,7 @@
       "timestamp": 1790532332412
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -723,7 +705,7 @@
       "timestamp": 1790532262128
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "C",
@@ -732,7 +714,7 @@
       "timestamp": 1790532266740
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -741,7 +723,7 @@
       "timestamp": 1790532270379
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "B",
@@ -750,7 +732,7 @@
       "timestamp": 1790532273833
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -759,7 +741,7 @@
       "timestamp": 1790532318447
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "B",
@@ -768,7 +750,7 @@
       "timestamp": 1790532322832
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -777,7 +759,7 @@
       "timestamp": 1790532326547
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "D",
@@ -786,7 +768,7 @@
       "timestamp": 1790532329513
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 5,
       "selectedAnswer": "B",
@@ -795,7 +777,7 @@
       "timestamp": 1790532332412
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -804,7 +786,7 @@
       "timestamp": 1790538155145
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "B",
@@ -813,7 +795,7 @@
       "timestamp": 1790538159485
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "C",
@@ -822,7 +804,7 @@
       "timestamp": 1790538162132
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -831,7 +813,7 @@
       "timestamp": 1790532262128
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "C",
@@ -840,7 +822,7 @@
       "timestamp": 1790532266740
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -849,7 +831,7 @@
       "timestamp": 1790532270379
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "B",
@@ -858,7 +840,7 @@
       "timestamp": 1790532273833
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -867,7 +849,7 @@
       "timestamp": 1790532318447
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "B",
@@ -876,7 +858,7 @@
       "timestamp": 1790532322832
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -885,7 +867,7 @@
       "timestamp": 1790532326547
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "D",
@@ -894,7 +876,7 @@
       "timestamp": 1790532329513
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 5,
       "selectedAnswer": "B",
@@ -903,7 +885,7 @@
       "timestamp": 1790532332412
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "A",
@@ -912,7 +894,7 @@
       "timestamp": 1790536789508
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -921,7 +903,7 @@
       "timestamp": 1790532262128
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "C",
@@ -930,7 +912,7 @@
       "timestamp": 1790532266740
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -939,7 +921,7 @@
       "timestamp": 1790532270379
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "B",
@@ -948,7 +930,7 @@
       "timestamp": 1790532273833
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -957,7 +939,7 @@
       "timestamp": 1790532318447
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "B",
@@ -966,7 +948,7 @@
       "timestamp": 1790532322832
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -975,7 +957,7 @@
       "timestamp": 1790532326547
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "D",
@@ -984,7 +966,7 @@
       "timestamp": 1790532329513
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 5,
       "selectedAnswer": "B",
@@ -993,7 +975,7 @@
       "timestamp": 1790532332412
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -1002,7 +984,7 @@
       "timestamp": 1790532262128
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "C",
@@ -1011,7 +993,7 @@
       "timestamp": 1790532266740
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -1020,7 +1002,7 @@
       "timestamp": 1790532270379
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "B",
@@ -1029,7 +1011,7 @@
       "timestamp": 1790532273833
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -1038,7 +1020,7 @@
       "timestamp": 1790532318447
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "B",
@@ -1047,7 +1029,7 @@
       "timestamp": 1790532322832
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -1056,7 +1038,7 @@
       "timestamp": 1790532326547
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "D",
@@ -1065,7 +1047,7 @@
       "timestamp": 1790532329513
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 5,
       "selectedAnswer": "B",
@@ -1074,7 +1056,7 @@
       "timestamp": 1790532332412
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -1083,7 +1065,7 @@
       "timestamp": 1790532262128
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "C",
@@ -1092,7 +1074,7 @@
       "timestamp": 1790532266740
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -1101,7 +1083,7 @@
       "timestamp": 1790532270379
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "B",
@@ -1110,7 +1092,7 @@
       "timestamp": 1790532273833
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -1119,7 +1101,7 @@
       "timestamp": 1790532318447
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "B",
@@ -1128,7 +1110,7 @@
       "timestamp": 1790532322832
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "B",
@@ -1137,7 +1119,7 @@
       "timestamp": 1790532326547
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 4,
       "selectedAnswer": "D",
@@ -1146,7 +1128,7 @@
       "timestamp": 1790532329513
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 5,
       "selectedAnswer": "B",
@@ -1155,7 +1137,7 @@
       "timestamp": 1790532332412
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 1,
       "selectedAnswer": "B",
@@ -1164,7 +1146,7 @@
       "timestamp": 1790538155145
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 2,
       "selectedAnswer": "B",
@@ -1173,7 +1155,7 @@
       "timestamp": 1790538159485
     },
     {
-      "userId": "maxy",
+      "userId": "genu",
       "sessionId": "",
       "questionId": 3,
       "selectedAnswer": "C",
