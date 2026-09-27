@@ -1,15 +1,15 @@
 {
-  "updatedAt": 1790541220160,
-  "userId": "genuine_jis",
-  "displayName": "Candidate",
+  "updatedAt": 1790543755707,
+  "userId": "maxy",
+  "displayName": "Maxy",
   "email": "genuineiswarari@gmail.com",
   "totalQuestions": 18,
   "totalSessions": 0,
-  "totalAttempts": 9,
+  "totalAttempts": 0,
   "questions": [
     {
       "id": 1,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 1: Sources & Pre-history",
       "year": "2024",
@@ -32,7 +32,7 @@
     },
     {
       "id": 2,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 2: From State to Empire",
       "year": "2024",
@@ -55,7 +55,7 @@
     },
     {
       "id": 3,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 1: Sources & Pre-history",
       "year": "2024",
@@ -78,7 +78,7 @@
     },
     {
       "id": 4,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 4: Source of Medieval Indian History",
       "year": "2024",
@@ -101,7 +101,7 @@
     },
     {
       "id": 5,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 6: Society and Culture in Medieval India",
       "year": "2024",
@@ -124,7 +124,7 @@
     },
     {
       "id": 6,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 5: Administration & Economy in Medieval India",
       "year": "2024",
@@ -147,7 +147,7 @@
     },
     {
       "id": 7,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 7: Sources of Modern Indian History",
       "year": "2024",
@@ -170,7 +170,7 @@
     },
     {
       "id": 8,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 8: Colonial Economy",
       "year": "2024",
@@ -193,7 +193,7 @@
     },
     {
       "id": 9,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 8: Colonial Economy",
       "year": "2024",
@@ -216,7 +216,7 @@
     },
     {
       "id": 10,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 9: Rise of Indian Nationalism",
       "year": "2024",
@@ -239,7 +239,7 @@
     },
     {
       "id": 11,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 9: Rise of Indian Nationalism",
       "year": "2024",
@@ -262,7 +262,7 @@
     },
     {
       "id": 12,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 1: Sources & Pre-history",
       "year": "2024",
@@ -285,7 +285,7 @@
     },
     {
       "id": 13,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 2: From State to Empire",
       "year": "2024",
@@ -308,7 +308,7 @@
     },
     {
       "id": 14,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 3: Emergence of Regional Kingdoms",
       "year": "2024",
@@ -331,7 +331,7 @@
     },
     {
       "id": 15,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 4: Source of Medieval Indian History",
       "year": "2024",
@@ -354,7 +354,7 @@
     },
     {
       "id": 16,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 5: Administration & Economy in Medieval India",
       "year": "2024",
@@ -377,7 +377,7 @@
     },
     {
       "id": 17,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 9: Rise of Indian Nationalism",
       "year": "2024",
@@ -400,7 +400,7 @@
     },
     {
       "id": 18,
-      "userId": "genu",
+      "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit 8: Colonial Economy",
       "year": "2024",
@@ -423,87 +423,5 @@
     }
   ],
   "sessions": [],
-  "attempts": [
-    {
-      "userId": "genuine_jis",
-      "sessionId": "",
-      "questionId": 1,
-      "selectedAnswer": "B",
-      "isCorrect": false,
-      "timeSpentSeconds": 15,
-      "timestamp": 1790532262128
-    },
-    {
-      "userId": "genuine_jis",
-      "sessionId": "",
-      "questionId": 2,
-      "selectedAnswer": "C",
-      "isCorrect": false,
-      "timeSpentSeconds": 15,
-      "timestamp": 1790532266740
-    },
-    {
-      "userId": "genuine_jis",
-      "sessionId": "",
-      "questionId": 3,
-      "selectedAnswer": "B",
-      "isCorrect": true,
-      "timeSpentSeconds": 15,
-      "timestamp": 1790532270379
-    },
-    {
-      "userId": "genuine_jis",
-      "sessionId": "",
-      "questionId": 4,
-      "selectedAnswer": "B",
-      "isCorrect": false,
-      "timeSpentSeconds": 15,
-      "timestamp": 1790532273833
-    },
-    {
-      "userId": "genuine_jis",
-      "sessionId": "",
-      "questionId": 1,
-      "selectedAnswer": "B",
-      "isCorrect": false,
-      "timeSpentSeconds": 15,
-      "timestamp": 1790532318447
-    },
-    {
-      "userId": "genuine_jis",
-      "sessionId": "",
-      "questionId": 2,
-      "selectedAnswer": "B",
-      "isCorrect": true,
-      "timeSpentSeconds": 15,
-      "timestamp": 1790532322832
-    },
-    {
-      "userId": "genuine_jis",
-      "sessionId": "",
-      "questionId": 3,
-      "selectedAnswer": "B",
-      "isCorrect": true,
-      "timeSpentSeconds": 15,
-      "timestamp": 1790532326547
-    },
-    {
-      "userId": "genuine_jis",
-      "sessionId": "",
-      "questionId": 4,
-      "selectedAnswer": "D",
-      "isCorrect": false,
-      "timeSpentSeconds": 15,
-      "timestamp": 1790532329513
-    },
-    {
-      "userId": "genuine_jis",
-      "sessionId": "",
-      "questionId": 5,
-      "selectedAnswer": "B",
-      "isCorrect": false,
-      "timeSpentSeconds": 15,
-      "timestamp": 1790532332412
-    }
-  ]
+  "attempts": []
 }
