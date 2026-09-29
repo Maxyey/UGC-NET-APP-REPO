@@ -1,9 +1,9 @@
 {
-  "updatedAt": 1790704801505,
+  "updatedAt": 1790704995504,
   "userId": "maxy",
   "displayName": "Maxy",
   "email": "genuineiswarari@gmail.com",
-  "totalQuestions": 398,
+  "totalQuestions": 400,
   "totalSessions": 0,
   "totalAttempts": 0,
   "questions": [
@@ -8058,7 +8058,7 @@
       "customOrder": 5
     },
     {
-      "id": 434,
+      "id": 482,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-X: Historical Method, Research, Methodology and Historiography",
@@ -8081,7 +8081,7 @@
       "customOrder": 0
     },
     {
-      "id": 435,
+      "id": 483,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-I: Negotiating the Sources",
@@ -8104,7 +8104,7 @@
       "customOrder": 0
     },
     {
-      "id": 436,
+      "id": 484,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-I: Negotiating the Sources",
@@ -8127,7 +8127,7 @@
       "customOrder": 0
     },
     {
-      "id": 437,
+      "id": 485,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-X: Historical Method, Research, Methodology and Historiography",
@@ -8150,7 +8150,7 @@
       "customOrder": 0
     },
     {
-      "id": 438,
+      "id": 486,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-I: Negotiating the Sources",
@@ -8173,7 +8173,53 @@
       "customOrder": 0
     },
     {
-      "id": 439,
+      "id": 487,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I: Negotiating the Sources",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, June 2013 History Paper-II",
+      "questionText": "Match List-I (King) with List-II (Kingdom) and select the correct answer with the help of the code given below:",
+      "optionA": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "optionB": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "optionC": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "optionD": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "correctAnswer": "A",
+      "explanation": "The correct matching is:\n\n| List-I | List-II |\n|---|---|\n| Brahmadatta | Kasi |\n| Jarasandha | Magadha |\n| Janamejaya | Kuru |\n| Asvapati | Kekaya |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| (a) Brahmadatta | (i) Kekaya |\n| (b) Jarasandha | (ii) Kuru |\n| (c) Janamejaya | (iii) Kasi |\n| (d) Asvapati | (iv) Magadha |",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 488,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II: From State to Empire",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, June 2013 History Paper-II",
+      "questionText": "The earliest available Indian coins were made of",
+      "optionA": "Gold",
+      "optionB": "Silver",
+      "optionC": "Copper",
+      "optionD": "Copper and Silver",
+      "correctAnswer": "D",
+      "explanation": "The earliest available Indian Coins were made of copper and Silver. The coinage of India began anywhere between early 1st millennium BCE to the 6th century BCE, and consisted mainly of copper and Silver Coins in its initial stage. The coins of this period were Karshapanas or pana.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 489,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-II: From State to Empire",
@@ -8196,7 +8242,7 @@
       "customOrder": 0
     },
     {
-      "id": 440,
+      "id": 490,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-II: From State to Empire",
@@ -8219,7 +8265,7 @@
       "customOrder": 0
     },
     {
-      "id": 441,
+      "id": 491,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-II: From State to Empire",
@@ -8242,7 +8288,7 @@
       "customOrder": 0
     },
     {
-      "id": 442,
+      "id": 492,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-III: Emergence of Regional Kingdoms",
@@ -8265,7 +8311,7 @@
       "customOrder": 0
     },
     {
-      "id": 443,
+      "id": 493,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-II: From State to Empire",
@@ -8288,7 +8334,7 @@
       "customOrder": 0
     },
     {
-      "id": 444,
+      "id": 494,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-III: Emergence of Regional Kingdoms",
@@ -8311,7 +8357,7 @@
       "customOrder": 0
     },
     {
-      "id": 445,
+      "id": 495,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-III: Emergence of Regional Kingdoms",
@@ -8334,7 +8380,7 @@
       "customOrder": 0
     },
     {
-      "id": 446,
+      "id": 496,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-III: Emergence of Regional Kingdoms",
@@ -8357,7 +8403,7 @@
       "customOrder": 0
     },
     {
-      "id": 447,
+      "id": 497,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IV: Source of Medieval Indian History",
@@ -8380,7 +8426,7 @@
       "customOrder": 0
     },
     {
-      "id": 448,
+      "id": 498,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IV: Source of Medieval Indian History",
@@ -8403,7 +8449,7 @@
       "customOrder": 0
     },
     {
-      "id": 449,
+      "id": 499,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-VI: Society and Culture",
@@ -8426,7 +8472,7 @@
       "customOrder": 0
     },
     {
-      "id": 450,
+      "id": 500,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IV: Source of Medieval Indian History",
@@ -8449,7 +8495,7 @@
       "customOrder": 0
     },
     {
-      "id": 451,
+      "id": 501,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IV: Source of Medieval Indian History",
@@ -8472,7 +8518,7 @@
       "customOrder": 0
     },
     {
-      "id": 452,
+      "id": 502,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IV: Source of Medieval Indian History",
@@ -8495,7 +8541,7 @@
       "customOrder": 0
     },
     {
-      "id": 453,
+      "id": 503,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IV: Source of Medieval Indian History",
@@ -8518,7 +8564,7 @@
       "customOrder": 0
     },
     {
-      "id": 454,
+      "id": 504,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IV: Source of Medieval Indian History",
@@ -8541,7 +8587,7 @@
       "customOrder": 0
     },
     {
-      "id": 455,
+      "id": 505,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IV: Source of Medieval Indian History",
@@ -8564,7 +8610,7 @@
       "customOrder": 0
     },
     {
-      "id": 456,
+      "id": 506,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IV: Source of Medieval Indian History",
@@ -8587,7 +8633,7 @@
       "customOrder": 0
     },
     {
-      "id": 457,
+      "id": 507,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-VI: Society and Culture",
@@ -8610,7 +8656,7 @@
       "customOrder": 0
     },
     {
-      "id": 458,
+      "id": 508,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-VI: Society and Culture",
@@ -8633,7 +8679,7 @@
       "customOrder": 0
     },
     {
-      "id": 459,
+      "id": 509,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-V: Administration & Economy",
@@ -8656,7 +8702,7 @@
       "customOrder": 0
     },
     {
-      "id": 460,
+      "id": 510,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-VIII: Colonial Economy",
@@ -8679,7 +8725,7 @@
       "customOrder": 0
     },
     {
-      "id": 461,
+      "id": 511,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IV: Source of Medieval Indian History",
@@ -8702,7 +8748,7 @@
       "customOrder": 0
     },
     {
-      "id": 462,
+      "id": 512,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IV: Source of Medieval Indian History",
@@ -8725,7 +8771,7 @@
       "customOrder": 0
     },
     {
-      "id": 463,
+      "id": 513,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-VII: Sources of Modern Indian History",
@@ -8748,7 +8794,7 @@
       "customOrder": 0
     },
     {
-      "id": 464,
+      "id": 514,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-VII: Sources of Modern Indian History",
@@ -8771,7 +8817,7 @@
       "customOrder": 0
     },
     {
-      "id": 465,
+      "id": 515,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-VIII: Colonial Economy",
@@ -8794,7 +8840,7 @@
       "customOrder": 0
     },
     {
-      "id": 466,
+      "id": 516,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-VIII: Colonial Economy",
@@ -8817,7 +8863,7 @@
       "customOrder": 0
     },
     {
-      "id": 467,
+      "id": 517,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-VIII: Colonial Economy",
@@ -8840,7 +8886,7 @@
       "customOrder": 0
     },
     {
-      "id": 468,
+      "id": 518,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IX: Rise of Indian Nationalism",
@@ -8863,7 +8909,7 @@
       "customOrder": 0
     },
     {
-      "id": 469,
+      "id": 519,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IX: Rise of Indian Nationalism",
@@ -8886,7 +8932,7 @@
       "customOrder": 0
     },
     {
-      "id": 470,
+      "id": 520,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IX: Rise of Indian Nationalism",
@@ -8909,7 +8955,7 @@
       "customOrder": 0
     },
     {
-      "id": 471,
+      "id": 521,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IX: Rise of Indian Nationalism",
@@ -8932,7 +8978,7 @@
       "customOrder": 0
     },
     {
-      "id": 472,
+      "id": 522,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-VIII: Colonial Economy",
@@ -8955,7 +9001,7 @@
       "customOrder": 0
     },
     {
-      "id": 473,
+      "id": 523,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-VIII: Colonial Economy",
@@ -8978,7 +9024,7 @@
       "customOrder": 0
     },
     {
-      "id": 474,
+      "id": 524,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IX: Rise of Indian Nationalism",
@@ -9001,7 +9047,7 @@
       "customOrder": 0
     },
     {
-      "id": 475,
+      "id": 525,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IX: Rise of Indian Nationalism",
@@ -9024,7 +9070,7 @@
       "customOrder": 0
     },
     {
-      "id": 476,
+      "id": 526,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IX: Rise of Indian Nationalism",
@@ -9047,7 +9093,7 @@
       "customOrder": 0
     },
     {
-      "id": 477,
+      "id": 527,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IX: Rise of Indian Nationalism",
@@ -9070,7 +9116,7 @@
       "customOrder": 0
     },
     {
-      "id": 478,
+      "id": 528,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IX: Rise of Indian Nationalism",
@@ -9093,7 +9139,7 @@
       "customOrder": 0
     },
     {
-      "id": 479,
+      "id": 529,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-IX: Rise of Indian Nationalism",
@@ -9116,7 +9162,7 @@
       "customOrder": 0
     },
     {
-      "id": 480,
+      "id": 530,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-X: Historical Method, Research, Methodology and Historiography",
@@ -9139,7 +9185,7 @@
       "customOrder": 0
     },
     {
-      "id": 481,
+      "id": 531,
       "userId": "maxy",
       "paperType": "HISTORY",
       "unitName": "Unit-X: Historical Method, Research, Methodology and Historiography",
