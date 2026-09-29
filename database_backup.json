@@ -1,9 +1,9 @@
 {
-  "updatedAt": 1790667791738,
+  "updatedAt": 1790667962244,
   "userId": "maxy",
   "displayName": "Maxy",
   "email": "genuineiswarari@gmail.com",
-  "totalQuestions": 225,
+  "totalQuestions": 275,
   "totalSessions": 0,
   "totalAttempts": 0,
   "questions": [
@@ -1178,7 +1178,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 85,
@@ -1201,7 +1201,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 86,
@@ -1224,7 +1224,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 87,
@@ -1247,7 +1247,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 88,
@@ -1270,7 +1270,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 89,
@@ -1293,7 +1293,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 90,
@@ -1316,7 +1316,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 91,
@@ -1339,7 +1339,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 92,
@@ -1362,7 +1362,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 93,
@@ -1385,7 +1385,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 94,
@@ -1408,7 +1408,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 95,
@@ -1431,7 +1431,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 96,
@@ -1454,7 +1454,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 97,
@@ -1477,7 +1477,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 98,
@@ -1500,7 +1500,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 99,
@@ -1523,7 +1523,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 100,
@@ -1546,7 +1546,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 101,
@@ -1569,7 +1569,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 102,
@@ -1592,7 +1592,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 103,
@@ -1615,7 +1615,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 104,
@@ -1638,7 +1638,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 105,
@@ -1661,7 +1661,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 106,
@@ -1684,7 +1684,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 107,
@@ -1707,7 +1707,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 108,
@@ -1730,7 +1730,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 109,
@@ -1753,7 +1753,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 110,
@@ -1776,7 +1776,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 111,
@@ -1799,7 +1799,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 112,
@@ -1822,7 +1822,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 113,
@@ -1845,7 +1845,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 114,
@@ -1868,7 +1868,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 115,
@@ -1891,7 +1891,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 116,
@@ -1914,7 +1914,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 117,
@@ -1937,7 +1937,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 118,
@@ -1960,7 +1960,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 119,
@@ -1983,7 +1983,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 120,
@@ -2006,7 +2006,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 121,
@@ -2029,7 +2029,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 122,
@@ -2052,7 +2052,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 123,
@@ -2075,7 +2075,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 124,
@@ -2098,7 +2098,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 125,
@@ -2121,7 +2121,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 126,
@@ -2144,7 +2144,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 127,
@@ -2167,7 +2167,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 128,
@@ -2190,7 +2190,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 129,
@@ -2213,7 +2213,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 130,
@@ -2236,7 +2236,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 131,
@@ -2259,7 +2259,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 132,
@@ -2282,7 +2282,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 133,
@@ -2305,7 +2305,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 1
     },
     {
       "id": 134,
@@ -2328,7 +2328,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 135,
@@ -2351,7 +2351,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 136,
@@ -2374,7 +2374,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 137,
@@ -2397,7 +2397,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 138,
@@ -2420,7 +2420,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 139,
@@ -2443,7 +2443,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 140,
@@ -2466,7 +2466,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 141,
@@ -2489,7 +2489,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 142,
@@ -2512,7 +2512,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 143,
@@ -2535,7 +2535,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 144,
@@ -2558,7 +2558,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 145,
@@ -2581,7 +2581,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 146,
@@ -2604,7 +2604,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 147,
@@ -2627,7 +2627,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 148,
@@ -2650,7 +2650,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 149,
@@ -2673,7 +2673,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 150,
@@ -2696,7 +2696,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 151,
@@ -2719,7 +2719,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 152,
@@ -2742,7 +2742,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 153,
@@ -2765,7 +2765,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 154,
@@ -2788,7 +2788,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 155,
@@ -2811,7 +2811,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 156,
@@ -2834,7 +2834,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 157,
@@ -2857,7 +2857,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 158,
@@ -2880,7 +2880,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 159,
@@ -2903,7 +2903,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 160,
@@ -2926,7 +2926,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 161,
@@ -2949,7 +2949,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 162,
@@ -2972,7 +2972,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 163,
@@ -2995,7 +2995,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 164,
@@ -3018,7 +3018,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 165,
@@ -3041,7 +3041,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 166,
@@ -3064,7 +3064,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 167,
@@ -3087,7 +3087,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 168,
@@ -3110,7 +3110,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 169,
@@ -3133,7 +3133,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 170,
@@ -3156,7 +3156,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 171,
@@ -3179,7 +3179,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 172,
@@ -3202,7 +3202,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 173,
@@ -3225,7 +3225,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 174,
@@ -3248,7 +3248,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 175,
@@ -3271,7 +3271,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 176,
@@ -3294,7 +3294,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 177,
@@ -3317,7 +3317,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 178,
@@ -3340,7 +3340,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 179,
@@ -3363,7 +3363,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 180,
@@ -3386,7 +3386,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 181,
@@ -3409,7 +3409,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 182,
@@ -3432,7 +3432,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 183,
@@ -3455,7 +3455,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 184,
@@ -3478,7 +3478,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 185,
@@ -3501,7 +3501,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 186,
@@ -3524,7 +3524,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 187,
@@ -3547,7 +3547,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 188,
@@ -3570,7 +3570,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 189,
@@ -3593,7 +3593,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 190,
@@ -3616,7 +3616,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 191,
@@ -3639,7 +3639,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 192,
@@ -3662,7 +3662,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 193,
@@ -3685,7 +3685,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 194,
@@ -3708,7 +3708,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 195,
@@ -3731,7 +3731,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 196,
@@ -3754,7 +3754,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 197,
@@ -3777,7 +3777,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 198,
@@ -3800,7 +3800,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 199,
@@ -3823,7 +3823,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 200,
@@ -3846,7 +3846,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 201,
@@ -3869,7 +3869,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 202,
@@ -3892,7 +3892,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 203,
@@ -3915,7 +3915,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 204,
@@ -3938,7 +3938,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 205,
@@ -3961,7 +3961,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 206,
@@ -3984,7 +3984,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 207,
@@ -4007,7 +4007,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 208,
@@ -4030,7 +4030,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 2
     },
     {
       "id": 209,
@@ -4053,7 +4053,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 210,
@@ -4076,7 +4076,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 211,
@@ -4099,7 +4099,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 212,
@@ -4122,7 +4122,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 213,
@@ -4145,7 +4145,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 214,
@@ -4168,7 +4168,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 215,
@@ -4191,7 +4191,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 216,
@@ -4214,7 +4214,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 217,
@@ -4237,7 +4237,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 218,
@@ -4260,7 +4260,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 219,
@@ -4283,7 +4283,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 220,
@@ -4306,7 +4306,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 221,
@@ -4329,7 +4329,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 222,
@@ -4352,7 +4352,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 223,
@@ -4375,7 +4375,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 224,
@@ -4398,7 +4398,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 225,
@@ -4421,7 +4421,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 226,
@@ -4444,7 +4444,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 227,
@@ -4467,7 +4467,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 228,
@@ -4490,7 +4490,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 229,
@@ -4513,7 +4513,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 230,
@@ -4536,7 +4536,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 231,
@@ -4559,7 +4559,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 232,
@@ -4582,7 +4582,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 233,
@@ -4605,7 +4605,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 234,
@@ -4628,7 +4628,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 235,
@@ -4651,7 +4651,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 236,
@@ -4674,7 +4674,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 237,
@@ -4697,7 +4697,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 238,
@@ -4720,7 +4720,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 239,
@@ -4743,7 +4743,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 240,
@@ -4766,7 +4766,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 241,
@@ -4789,7 +4789,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 242,
@@ -4812,7 +4812,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 243,
@@ -4835,7 +4835,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 244,
@@ -4858,7 +4858,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 245,
@@ -4881,7 +4881,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 246,
@@ -4904,7 +4904,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 247,
@@ -4927,7 +4927,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 248,
@@ -4950,7 +4950,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 249,
@@ -4973,7 +4973,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 250,
@@ -4996,7 +4996,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 251,
@@ -5019,7 +5019,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 252,
@@ -5042,7 +5042,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 253,
@@ -5065,7 +5065,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 254,
@@ -5088,7 +5088,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 255,
@@ -5111,7 +5111,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 256,
@@ -5134,7 +5134,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 257,
@@ -5157,7 +5157,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
     },
     {
       "id": 258,
@@ -5180,7 +5180,1157 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 4
+    },
+    {
+      "id": 259,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Which of the following games was known to the people of the Indus Valley?",
+      "optionA": "Chariot racing",
+      "optionB": "Game of dice",
+      "optionC": "Polo",
+      "optionD": "Horse riding",
+      "correctAnswer": "B",
+      "explanation": "Game of dice was known to the people of Indus valley. There is no evidence of use of horse in Indus valley civilization. Only one terracota figure of horse found from Surkotada. Chariot racing, polo and horse riding needs horse. They did not used horses, so they were not used to play these games.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 260,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Which of the following did Mahavira the real founder of Jainism-belong to?",
+      "optionA": "Jnatrika tribe",
+      "optionB": "Malla tribe",
+      "optionC": "Lichchhavi tribe",
+      "optionD": "Sakya tribe",
+      "correctAnswer": "A",
+      "explanation": "Mahavir Swami belong to an aristocratic family and Kshatriya clan called Jnatrika. He was born in Kundagrama near Patna and his father was king of that area. His mother Trishala was sister of Chetak an eminent prince of Vaisali.\n* Gautam Buddha belonged to Sakya clan.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 261,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "In which of the following Asokan inscriptions the Brahmi script was not used?",
+      "optionA": "Saranath",
+      "optionB": "Shahbazgarhi",
+      "optionC": "Dhauli",
+      "optionD": "None of the above",
+      "correctAnswer": "B",
+      "explanation": "Shahbazgarhi and Mansehra inscription of Ashoka written in Kharoshthi script. Dhauli and Sarnath inscription were written in Brahmi script. Shahbazgarhi located in Pakistan. Dhauli inscription is situated in Odisha.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 262,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "The Neolithic people had their settlements in",
+      "optionA": "Quartzite rocks",
+      "optionB": "Granite rocks",
+      "optionC": "Natural rocks",
+      "optionD": "Houses of burnt bricks",
+      "correctAnswer": "B",
+      "explanation": "Neolithic people had settlement in granite rocks.\nFeatures of Neolithic people:\n* Use of polished ware\n* Development of permanent dwellings\n* Cultural advances such as pottery making\n* Domestication of animals and plants\n* Cultivation of grains etc.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 263,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "On which archaeological site the evidence of fire cult was found?",
+      "optionA": "Hastinapur",
+      "optionB": "Alamgirpur",
+      "optionC": "Kaushambi",
+      "optionD": "Lothal",
+      "correctAnswer": "D",
+      "explanation": "Evidence of fire cult was found at Lothal. Lothal was port city of Indus valley civilization. Lothal was situated in Gujarat. A measurement scale of ovary found from Lothal.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 264,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "In which of the following years the Numismatic Society of India was established at Allahabad?",
+      "optionA": "1908",
+      "optionB": "1910",
+      "optionC": "1912",
+      "optionD": "1914",
+      "correctAnswer": "B",
+      "explanation": "The Numismatic Society of India is the foremost numismatic society in India, it was founded in 1910 by a group of expatriate Englishmen associated with British rule in India. The first president was Sir John Stanley Chief Justice of Allahabad High Court.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 265,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Chachnama is a history of Sindh and was originally written in",
+      "optionA": "Persian language",
+      "optionB": "Hebrew language",
+      "optionC": "Arabic language",
+      "optionD": "Sanskrit language",
+      "correctAnswer": "A",
+      "explanation": "Chachnama, history of sindh composed by Ali B. Hamid B. Abi Bakr Kufi, this book was composed in Persian.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 266,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Mohd bin Tughlaq and Emperor Akbar used to drink the water of which of the following rivers?",
+      "optionA": "Yamuna river",
+      "optionB": "Ghaghra river",
+      "optionC": "Ganga river",
+      "optionD": "Indus river",
+      "correctAnswer": "C",
+      "explanation": "Mohd bin Tughlaq and Emperor Akbar used to drink the water of Ganga river. Akbar's ruling period was 1556-1605 A.D. Muhammad Bin Tughlaq established agricultural department.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 267,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Amir Khusrau is known to have innovated musical instrument",
+      "optionA": "Violin",
+      "optionB": "Tabla",
+      "optionC": "Guitar",
+      "optionD": "Sitar",
+      "correctAnswer": "D",
+      "explanation": "Amir Khusrau is known to have innovated musical instrument Sitar. He was also known for starting Qawwali. Hastbihist was his famous book.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 268,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "The marble stone used in the construction of Taj Mahal was brought from",
+      "optionA": "Amber",
+      "optionB": "Aurangabad",
+      "optionC": "Kishangarh",
+      "optionD": "Makrana",
+      "correctAnswer": "D",
+      "explanation": "Marble used in building Taj Mahal was brought from Makrana in Rajasthan.\nTaj Mahal constructed during 1631 to 1648. It was included in the list of world heritage sites in 1983.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 269,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Arrange the following events in chronological order using the code given below:\n1. Battle of Panipat I\n2. Battle of Haldighati\n3. Battle of Buxar\n4. Battle of Dharmat",
+      "optionA": "1, 2, 4, 3",
+      "optionB": "1, 4, 3, 2",
+      "optionC": "1, 2, 3, 4",
+      "optionD": "1, 3, 2, 4",
+      "correctAnswer": "A",
+      "explanation": "1. Battle of Panipat I (1526) Babur v\/s Ibrahim Lodi, winner - Babur\n2. Battle of Haldighati (1576) Akbar v\/s Rana Pratap, winner - Akbar\n4. Battle of Dharmat (1658-59) Aurangzeb v\/s Jaswant Singh Rathore, winner - Aurangzeb.\n3. Battle of Buxar (1764) Mughal Emperor Mir Kasim, Shujauddaula v\/s East India company, winner - East India company.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 270,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Who among the following Indian rulers had first opposed the Portuguese?",
+      "optionA": "Krishnadeva Raya",
+      "optionB": "Pulakeshin II",
+      "optionC": "Akbar",
+      "optionD": "Zamorin",
+      "correctAnswer": "D",
+      "explanation": "Portuguese was firstly opposed by Zamorin. Alfanso de Albuquerque gave order to destruct Zamorin. Zamorin palace was captured but position covered by forces of zamorin led a treaty with Albuquerque in 1513.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 271,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Who among the following did issue the Dastak?",
+      "optionA": "Mughal Emperor",
+      "optionB": "Nawab of Bengal",
+      "optionC": "Governor of Fort William",
+      "optionD": "Diwan of Bengal",
+      "correctAnswer": "D",
+      "explanation": "Dastak can be issued by Mughal emperor. Dastak was pass for tax free trading in India.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 272,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Muzaffar Jung, the Nizam of Hyderabad, had granted territorial concessions to",
+      "optionA": "Portuguese",
+      "optionB": "Dutch",
+      "optionC": "French",
+      "optionD": "English",
+      "correctAnswer": "C",
+      "explanation": "Muzaffar Jung, the Nizam of Hyderabad, had granted territorial concessions to French. French east India company was founded on 1 September 1664 by French finance minister Colbert to trade with east.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 273,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Who among the following did start the Ryotwari Settlement in Madras?",
+      "optionA": "Thomas Munroe",
+      "optionB": "Alexander Reed",
+      "optionC": "Mountstuart Elphinstone",
+      "optionD": "Henry Dundas",
+      "correctAnswer": "A",
+      "explanation": "Ryotwari system of land revenue was instituted in the late 18th century by Sir Thomas Munroe Governor of Madras in 1820. This was practised in the Madras and Bombay areas as well as Assam and Coorg provinces.\nIn this system peasants were regarded as the owners of the land.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 274,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "'Mein Kampf' was written by",
+      "optionA": "Adolf Hitler",
+      "optionB": "Mussolini",
+      "optionC": "General Franco",
+      "optionD": "Ottovon Bismarck",
+      "correctAnswer": "A",
+      "explanation": "'Mein Kampf' was written by Adolf Hitler. Adolf Hitler wrote this book in jail. He became a dictator in later period.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 275,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Which of the following was the Nehru-Mahalanobis strategy associated with?",
+      "optionA": "National Planning Committee",
+      "optionB": "Bombay Plan",
+      "optionC": "First Five Year Plan",
+      "optionD": "Second Five Year Plan",
+      "correctAnswer": "D",
+      "explanation": "Nehru-Mahalanobis model was adopted in the second five year plan.\nMain objective of this plan was rapid industrialization with particular emphasis. On the development of basic and heavy industries.\nFirst five year plan was based on model of Harrod-Domar.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 276,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A) The early Aryan settlers were engaged in taking possession of the land of the seven rivers represented by the Indus and its tributaries.\nReason (R): We noticed conflict between various Aryan tribes.\nRead the above statements and select the correct answer from the codes below:",
+      "optionA": "(A) is correct, but (R) is false",
+      "optionB": "(A) is false, but (R) is true",
+      "optionC": "Both (A) and (R) are incorrect",
+      "optionD": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "correctAnswer": "D",
+      "explanation": "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 277,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): The Indo-Roman Trade relations declined during 3rd-4th century A.D.\nReason (R): Increasing Brahmin supremacy put a riddle on sea journey.\nRead the above statements and select the correct answer from the codes given below:",
+      "optionA": "(A) is correct, but (R) is false",
+      "optionB": "(A) is false, but (R) is true",
+      "optionC": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "optionD": "Both (A) and (R) are incorrect",
+      "correctAnswer": "C",
+      "explanation": "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 278,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): India is bounded on the North by the Himalayas and on the South, East and West by the open sea.\nReason (R): Thus India is cut off from the rest of the world.\nRead the above statements and select the correct answer from the codes below:",
+      "optionA": "(A) is correct, but (R) is false",
+      "optionB": "(A) is false, but (R) is true",
+      "optionC": "Both (A) and (R) are incorrect",
+      "optionD": "Both (A) and (R) are correct",
+      "correctAnswer": "A",
+      "explanation": "(A) is correct, but (R) is false.\nIt is true that India is bounded on the North by the Himalayas and on the South east and west by open sea but it is false that thus India is cut off from the rest of the world.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 279,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): Akbar wanted to establish friendship with the Rajputs.\nReason (R): The Mughal links with Central Asia having been snapped, Akbar had to make friendship alliance in India.\nRead the above statements and select the correct answer from the codes below:",
+      "optionA": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "optionB": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+      "optionC": "(A) is true, but (R) is false.",
+      "optionD": "(A) is false, but (R) is true.",
+      "correctAnswer": "A",
+      "explanation": "Both (A) and (R) are true and (R) is the correct explanation of (A).\nAkbar wanted to establish friendship with Rajputs because he want to make friendship alliance in India.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 280,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): Malabar pepper was one of the most important items of export from India during the period of Akbar.\nReason (R): The producing regions and principle exporting ports in South India were well outside of Akbar's empire.\nRead the above statements and select the correct answer from the codes below:",
+      "optionA": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "optionB": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+      "optionC": "(A) is true, but (R) is false.",
+      "optionD": "(A) is false, but (R) is true.",
+      "correctAnswer": "B",
+      "explanation": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 281,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): The Portuguese had introduced violence in Asian waters.\nReason (R) The Portuguese motive was to control major sea lanes of Asian trade.\nRead the above statements and select the correct answer from the codes below:",
+      "optionA": "(A) is false, but (R) is true.",
+      "optionB": "(A) is true, but (R) is false.",
+      "optionC": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "optionD": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+      "correctAnswer": "C",
+      "explanation": "Both (A) and (R) are true and (R) is the correct explanation of (A) because portuguese introduced violence in Asian waters to control major sea lanes of Asian trade.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 282,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): Western education had an important role in the evoluation of Indian Nationalism.\nReason (R): Western education produced a critical public discourse conducive to its growth.\nRead the above statements and select the correct answer from the codes below:",
+      "optionA": "(A) is correct, but (R) is wrong.",
+      "optionB": "Both (A) and (R) are correct, but (R) does not explain (A)",
+      "optionC": "Both (A) and (R) are wrong.",
+      "optionD": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "correctAnswer": "B",
+      "explanation": "Both (A) and (R) are correct, but (R) does not explain (A) because western education played an important role in evolution of nationalism but did not produce a critical public discourse conducive to its growth.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 283,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): De-industrialization was uniform neither over space nor over the time period.\nReason (R): The artisan production did not conform to a particular pattern.\nRead the above statements and select the correct answer from the codes below:",
+      "optionA": "Both (A) and (R) are false",
+      "optionB": "Both (A) and (R) are true, but (R) does not explain (A)",
+      "optionC": "(A) is false, but (R) is true.",
+      "optionD": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "correctAnswer": "D",
+      "explanation": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 284,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): The Partition in 1947 led to large scale displacement of population.\nReason (R) The Partition in 1947 was ill-conceived and irrational.\nRead the above statements and select the correct answer from the codes below:",
+      "optionA": "(A) is true, but (R) is false",
+      "optionB": "Both (A) and (R) are true and (R) explains (A)",
+      "optionC": "Both (A) and (R) are true, but (R) does not fully account for (A)",
+      "optionD": "Both (A) and (R) are false",
+      "correctAnswer": "B",
+      "explanation": "Both (A) and (R) are true and (R) explains (A).\n(A) is correct that partition of 1947 led to large scale displacement of population because the partition in 1947 was ill conceived and irrational. Hence, option (b) is correct answer.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 285,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Arrange the following into historical sequence and select the correct answer from the codes given below:\n1. Chalcolithic age\n2. Iron age\n3. Bronze age\n4. Stone age",
+      "optionA": "3, 2, 1, 4",
+      "optionB": "2, 1, 4, 3",
+      "optionC": "4, 1, 3, 2",
+      "optionD": "4, 2, 1, 3",
+      "correctAnswer": "C",
+      "explanation": "(4) Stone Age (2.6 million years ago to 3700 B.C.)\n(1) Chalcolithic Age (About 4000 B.C. to 3000 B.C.)\n(3) Bronze Age (3300 B.C. - 1200 B.C.)\n(2) Iron Age (1500 B.C. - 600 B.C.)",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 286,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Arrange the following into historical sequence and select the correct answer from the codes given below:\n1. Greeks\n2. Romans\n3. Sakas\n4. Parthians",
+      "optionA": "4, 3, 1, 2",
+      "optionB": "2, 1, 3, 4",
+      "optionC": "3, 4, 1, 2",
+      "optionD": "4, 1, 3, 2",
+      "correctAnswer": "B",
+      "explanation": "1. Greeks\n3. Sakas (1st century B.C.)\n4. Parthians (19 C.E. - 226 C.E.)\n2. Romans\nNote: The book specifies ans (b) which reads \"2, 1, 3, 4\", though the textual explanation order lists 1, 3, 4, 2. Maintaining original text representation.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 287,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Arrange the following Gods in order of their importance in the Rig Vedic Society and select the correct answer from the codes given below:\n1. Agni\n2. Varuna\n3. Indra\n4. Marut",
+      "optionA": "2, 1, 3, 4",
+      "optionB": "3, 1, 2, 4",
+      "optionC": "4, 2, 1, 3",
+      "optionD": "1, 2, 3, 4",
+      "correctAnswer": "B",
+      "explanation": "Chronological order of Gods in order of importance-\n3. Indra (Indra was most important rigvedic God and also known as purandar)\n1. Agni\n2. Varuna\n4. Marut.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 288,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Arrange in chronological sequence the following travellers visit to India:\n1. Bernier\n2. Ibn Batuta\n3. Hiuen Tsang\n4. William Hodges",
+      "optionA": "3, 2, 1, 4",
+      "optionB": "2, 3, 4, 1",
+      "optionC": "4, 2, 3, 1",
+      "optionD": "1, 3, 4, 2",
+      "correctAnswer": "A",
+      "explanation": "Chronological sequence of foreign travellers\n3. Hiuen Tsang (629-643 A.D.)\n2. Ibn Batuta (1333-1347 A.D.)\n1. Bernier (1656-1717 A.D.)\n4. William Hodges (1778)",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 289,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "What is the correct chronological sequence of the following Bhakti saints?\n1. Chaitanya\n2. Ramanuja\n3. Tukaram\n4. Namdev",
+      "optionA": "1, 3, 2, 4",
+      "optionB": "4, 2, 3, 1",
+      "optionC": "2, 4, 1, 3",
+      "optionD": "3, 2, 1, 4",
+      "correctAnswer": "C",
+      "explanation": "Chronological sequence of Bhakti poets-\n2. Ramanuja (12th century)\n4. Namdev (1270-1350)\n1. Chaitanya (1486-1533)\n3. Tukaram (1608-1650)",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 290,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "What is the correct sequence of the following events related to Shivaji?\n1. Treaty of Purandhar\n2. First Plunder of Surat\n3. Coronation\n4. Visit to Agra",
+      "optionA": "2, 1, 4, 3",
+      "optionB": "1, 3, 2, 4",
+      "optionC": "3, 4, 1, 2",
+      "optionD": "4, 3, 2, 1",
+      "correctAnswer": "A",
+      "explanation": "Chronological sequence of events related to Shivaji-\n2. First plunder of Surat (1664)\n1. Treaty of purandhar (1665)\n4. Visit to Agra (1666)\n3. Coronation (1674)",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 291,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "English East India Company was established in the",
+      "optionA": "Early Fifteenth Century",
+      "optionB": "Early Sixteenth Century",
+      "optionC": "Late Sixteenth Century",
+      "optionD": "Early Seventeenth Century",
+      "correctAnswer": "D",
+      "explanation": "English East India Company was established in the Early Seventeenth Century.\nEast India Company was established in 1600 by the Charter of Queen Victoria.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 292,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Arrange the following Viceroys in historical order:\n1. Northbrook\n2. Dufferin\n3. Lytton\n4. Mayo\n5. Ripon",
+      "optionA": "1, 3, 4, 5, 1",
+      "optionB": "4, 1, 3, 5, 2",
+      "optionC": "4, 1, 5, 3, 2",
+      "optionD": "2, 3, 4, 1, 5",
+      "correctAnswer": "B",
+      "explanation": "4. Lord Mayo (1869-72)\n1. Lord Northbrook (1872-76)\n3. Lord Litton (1876-1880)\n5. Lord Ripon (1880-84)\n2. Dufferin (1884-1888)",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 293,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Arrange the following wars in chronological order using the codes given below:\n1. First Burma War\n2. First Anglo-Afghan War\n3. First Anglo-Maratha War\n4. First Anglo-Sikh War",
+      "optionA": "3, 1, 4, 2",
+      "optionB": "4, 3, 2, 1",
+      "optionC": "3, 2, 1, 4",
+      "optionD": "3, 1, 2, 4",
+      "correctAnswer": "D",
+      "explanation": "Chronological order of Battles-\n3. First Anglo Maratha War - 1775-82 A.D.\n1. First Burma War - 1824-26 A.D.\n2. First Anglo Afghan War - 1839-42 A.D.\n4. First Anglo Sikh War - 1845-1846 A.D.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 294,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Arrange the following organizations by the year of their foundation:\n1. British Indian Association\n2. Poona Sarvajanik Sabha\n3. Madras Mahajan Sabha\n4. Indian Association",
+      "optionA": "1, 2, 4, 3",
+      "optionB": "1, 2, 3, 4",
+      "optionC": "2, 3, 4, 1",
+      "optionD": "1, 3, 4, 2",
+      "correctAnswer": "A",
+      "explanation": "1. British Indian Association - 1851 by Radhakant Deb\n2. Poona Sarvajanik Sabha - 1867 by M.G. Ranade\n4. Indian Association - 1876 by S.N. Bannerjee\n3. Madras Mahajan Sabha - 1884 by V. Raghavachari.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 295,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Arrange the following societies by the year of their foundation and select the answer from using the codes given below:\n1. Indian Association for the Cultivation of Science.\n2. Society for the Acquisition of General Knowledge.\n3. Bihar Scientific Society\n4. Aligarh Scientific Society",
+      "optionA": "1, 3, 4, 2",
+      "optionB": "2, 4, 3, 1",
+      "optionC": "4, 3, 1, 2",
+      "optionD": "2, 4, 1, 3",
+      "correctAnswer": "A",
+      "explanation": "The source material indicates Ans (a). Chronological order based on founding years.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 296,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Match the List-I with List-II and choose your answer from the codes given below:",
+      "optionA": "A-1, B-2, C-3, D-4",
+      "optionB": "A-3, B-2, C-4, D-1",
+      "optionC": "A-4, B-3, C-2, D-1",
+      "optionD": "A-2, B-3, C-1, D-4",
+      "correctAnswer": "D",
+      "explanation": "\n| List-I | List-II |\n|---|---|\n| A. Srauta Sutras | 2. Rules for the performance of the great sacrifices |\n| B. Grihya Sutras | 3. Directions for the simple ceremonies of daily life |\n| C. Dharma Sutras | 1. Sacred and secular law and administration |\n| D. Sulva Sutras | 4. Rules for the measurement and building a place of sacrifice and the fire altars |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| A. Srauta Sutras | 1. Sacred and secular law and administration |\n| B. Grihya Sutras | 2. Rules for the performance of the great sacrifices |\n| C. Dharma Sutras | 3. Directions for the simple ceremonies of daily life |\n| D. Sulva Sutras | 4. Rules for the measurement and building a place of sacrifice and the fire altars |",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 297,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Match the List-I with List-II and choose your answer from the codes given below:",
+      "optionA": "A-4, B-3, C-1, D-2",
+      "optionB": "A-3, B-2, C-1, D-4",
+      "optionC": "A-1, B-2, C-3, D-4",
+      "optionD": "A-4, B-2, C-1, D-3",
+      "correctAnswer": "A",
+      "explanation": "\n| List-I (Author) | List-II (Book) |\n|---|---|\n| A. Kautilya | 4. Arthashastra |\n| B. Bhadrabahu | 3. Kalpa Sutra |\n| C. Katyayana | 1. Smriti |\n| D. Patanjali | 2. Mahabhashya |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I (Author) | List-II (Book) |\n|---|---|\n| A. Kautilya | 1. Smriti |\n| B. Bhadrabahu | 2. Mahabhashya |\n| C. Katyayana | 3. Kalpa Sutra |\n| D. Patanjali | 4. Arthashastra |",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 298,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Match the List-I with List-II and choose your answer from the codes given below:",
+      "optionA": "A-1, B-2, C-3, D-4",
+      "optionB": "A-4, B-3, C-2, D-1",
+      "optionC": "A-3, B-4, C-2, D-1",
+      "optionD": "A-2, B-3, C-4, D-1",
+      "correctAnswer": "B",
+      "explanation": "\n| List-I | List-II |\n|---|---|\n| A. Gita Govinda | 4. Jayadeva |\n| B. Parishishtaparvam | 3. Hemachandra |\n| C. Kathasaritsagara | 2. Somadeva |\n| D. Vikramankadevacharita | 1. Bilhana |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| A. Gita Govinda | 1. Bilhana |\n| B. Parishishtaparvam | 2. Somadeva |\n| C. Kathasaritsagara | 3. Hemachandra |\n| D. Vikramankadevacharita | 4. Jayadeva |",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 299,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Match the List-I with List-II and choose your answer from the codes given below:",
+      "optionA": "A-1, B-3, C-2, D-4",
+      "optionB": "A-1, B-4, C-2, D-3",
+      "optionC": "A-3, B-1, C-4, D-2",
+      "optionD": "A-4, B-1, C-3, D-2",
+      "correctAnswer": "A",
+      "explanation": "\n| List-I (Traveller) | List-II (Ruler) |\n|---|---|\n| A. Ibn Battuta | 1. Mohd. Bin Tughlaq |\n| B. Sir Thomas Roe | 3. Jahangir |\n| C. Peter Mundy | 2. Shah Jahan |\n| D. Bernier | 4. Aurangzeb |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I (Traveller) | List-II (Ruler) |\n|---|---|\n| A. Ibn Battuta | 1. Mohd. Bin Tughlaq |\n| B. Sir Thomas Roe | 2. Shah Jahan |\n| C. Peter Mundy | 3. Jahangir |\n| D. Bernier | 4. Aurangzeb |",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 300,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Match the List-I with List-II and choose your answer from the codes given below:",
+      "optionA": "A-1, B-3, C-4, D-2",
+      "optionB": "A-2, B-1, C-4, D-3",
+      "optionC": "A-1, B-2, C-4, D-3",
+      "optionD": "A-4, B-2, C-1, D-3",
+      "correctAnswer": "B",
+      "explanation": "\n| List-I | List-II |\n|---|---|\n| A. Zahiruddin | 2. Babur |\n| B. Jalaluddin | 1. Akbar |\n| C. Nooruddin | 4. Jahangir |\n| D. Alamgir | 3. Aurangzeb |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| A. Zahiruddin | 1. Akbar |\n| B. Jalaluddin | 2. Babur |\n| C. Nooruddin | 3. Aurangzeb |\n| D. Alamgir | 4. Jahangir |",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 301,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Match the List-I with List-II and choose your answer from the codes given below:",
+      "optionA": "A-3, B-1, C-4, D-2",
+      "optionB": "A-2, B-3, C-1, D-4",
+      "optionC": "A-3, B-2, C-1, D-4",
+      "optionD": "A-3, B-4, C-1, D-2",
+      "correctAnswer": "A",
+      "explanation": "\n| List-I | List-II |\n|---|---|\n| A. T.B. Macaulay | 3. Education |\n| B. John Shore | 1. Permanent Settlement |\n| C. Elijah Impey | 4. Supreme Court |\n| D. A.O. Hume | 2. Congress |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| A. T.B. Macaulay | 1. Permanent Settlement |\n| B. John Shore | 2. Congress |\n| C. Elijah Impey | 3. Education |\n| D. A.O. Hume | 4. Supreme Court |",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 302,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Match the List-I with List-II and choose your answer from the codes given below:",
+      "optionA": "A-3, B-4, C-1, D-2",
+      "optionB": "A-3, B-4, C-2, D-1",
+      "optionC": "A-3, B-2, C-1, D-4",
+      "optionD": "A-1, B-3, C-4, D-2",
+      "correctAnswer": "A",
+      "explanation": "\n| List-I (Author) | List-II (Work) |\n|---|---|\n| A. R.C. Dutt | 3. Economic history of India |\n| B. R.J. Moore | 4. The Crisis of Indian Unity |\n| C. A.R. Desai | 1. Social background of Indian |\n| D. H.J. Broomfield | 2. Elite Conflict in a Plural Society |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I (Author) | List-II (Work) |\n|---|---|\n| A. R.C. Dutt | 1. Social background of Indian |\n| B. R.J. Moore | 2. Elite Conflict in a Plural Society |\n| C. A.R. Desai | 3. Economic history of India |\n| D. H.J. Broomfield | 4. The Crisis of Indian Unity |",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 303,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Match the List-I with List-II and choose your answer from the codes given below:",
+      "optionA": "A-2, B-1, C-3, D-4",
+      "optionB": "A-3, B-4, C-1, D-2",
+      "optionC": "A-1, B-2, C-3, D-4",
+      "optionD": "A-3, B-4, C-2, D-1",
+      "correctAnswer": "B",
+      "explanation": "\n| List-I (Movement) | List-II (Region) |\n|---|---|\n| A. Prati Sarkar | 3. Maharashtra |\n| B. Chasi-mulia Raj | 4. Orissa |\n| C. Ulgulan | 1. Bihar |\n| D. Tamralipta Jatiya Sarkar | 2. Bengal |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I (Movement) | List-II (Region) |\n|---|---|\n| A. Prati Sarkar | 1. Bihar |\n| B. Chasi-mulia Raj | 2. Bengal |\n| C. Ulgulan | 3. Maharashtra |\n| D. Tamralipta Jatiya Sarkar | 4. Orissa |",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 304,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Match the List-I with List-II and choose your answer from the codes given below:",
+      "optionA": "A-1, B-2, C-3, D-4",
+      "optionB": "A-4, B-3, C-2, D-1",
+      "optionC": "A-2, B-3, C-4, D-1",
+      "optionD": "A-4, B-3, C-1, D-2",
+      "correctAnswer": "D",
+      "explanation": "\n| List-I (Leaders) | List-II (Organization) |\n|---|---|\n| A. C.R. Das | 4. Swaraj Party |\n| B. S.N. Banerjee | 3. Indian Association |\n| C. A.K. Fazlul Haq | 1. Krishak Praja Party |\n| D. G.K. Gokhale | 2. Poona Sarvajanik Sabha |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I (Leaders) | List-II (Organization) |\n|---|---|\n| A. C.R. Das | 1. Krishak Praja Party |\n| B. S.N. Banerjee | 2. Poona Sarvajanik Sabha |\n| C. A.K. Fazlul Haq | 3. Indian Association |\n| D. G.K. Gokhale | 4. Swaraj Party |",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 305,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Read the following passage carefully and choose the correct answer of the questions that follow:\n\nHegel's philosophy bridged the chasm separating Christian scholars and secular philosophers. He provided enough God to satisfy liberal Christians and an emphasis on reason that appeased the rationalists. In the process, he established new paradigms that swept through academia. His macro-historical approach widened the sphere of historical studies. It illustrated the benefits of expanding the studies that had hitherto been limited to political history and biographical works. New possibilities in social history were avidly accepted by the next generation of historians, including Karl Marx. Efforts were made to link separate histories into an all-encompassing world history. Hegel's division of history into four great epochs (the Oriental, the Greek, the Roman and the German) convinced many historians that different eras and cultures were fundamentally dissimilar and had to be evaluated within their own contexts and in recognition of the specific \"needs of that age\". Hegel's insistence that motives often differed from those professed, led to a more critical appraisal of source materials. Actions, motives and repercussions were increasingly scrutinized for consistency, and casual relationships became more and more important. The dialectic model had less immediate impact, but in later generations it has become a staple tenet in many historical interpretations.\n\nHow did Hegel try to bridge the gap between Christian Scholars and Secular Philosophers?",
+      "optionA": "By establishing new paradigm that swept through academia.",
+      "optionB": "Provided enough God to satisfy liberal Christians and emphasis on reason that appeased the rationalists.",
+      "optionC": "Emphasizing on reason only.",
+      "optionD": "Emphasizing on the Christian Philosophy.",
+      "correctAnswer": "B",
+      "explanation": "Hegel try to bridge the gap between Christian Scholars and Secular Philosophers by providing enough god to satisfy liberal Christians and emphasis on reason that appeased the rationalist.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 306,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Read the following passage carefully and choose the correct answer of the questions that follow:\n\nHegel's philosophy bridged the chasm separating Christian scholars and secular philosophers. He provided enough God to satisfy liberal Christians and an emphasis on reason that appeased the rationalists. In the process, he established new paradigms that swept through academia. His macro-historical approach widened the sphere of historical studies. It illustrated the benefits of expanding the studies that had hitherto been limited to political history and biographical works. New possibilities in social history were avidly accepted by the next generation of historians, including Karl Marx. Efforts were made to link separate histories into an all-encompassing world history. Hegel's division of history into four great epochs (the Oriental, the Greek, the Roman and the German) convinced many historians that different eras and cultures were fundamentally dissimilar and had to be evaluated within their own contexts and in recognition of the specific \"needs of that age\". Hegel's insistence that motives often differed from those professed, led to a more critical appraisal of source materials. Actions, motives and repercussions were increasingly scrutinized for consistency, and casual relationships became more and more important. The dialectic model had less immediate impact, but in later generations it has become a staple tenet in many historical interpretations.\n\nIn Hegel's time in which two spheres historical writings were limited and he was not satisfied with those:",
+      "optionA": "Limited to Christian History",
+      "optionB": "Limited to Secular History",
+      "optionC": "Limited to Political and Biographical works",
+      "optionD": "None of the above",
+      "correctAnswer": "C",
+      "explanation": "In Hegel's time historical writings were limited to political and Biographical works.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 307,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Read the following passage carefully and choose the correct answer of the questions that follow:\n\nHegel's philosophy bridged the chasm separating Christian scholars and secular philosophers. He provided enough God to satisfy liberal Christians and an emphasis on reason that appeased the rationalists. In the process, he established new paradigms that swept through academia. His macro-historical approach widened the sphere of historical studies. It illustrated the benefits of expanding the studies that had hitherto been limited to political history and biographical works. New possibilities in social history were avidly accepted by the next generation of historians, including Karl Marx. Efforts were made to link separate histories into an all-encompassing world history. Hegel's division of history into four great epochs (the Oriental, the Greek, the Roman and the German) convinced many historians that different eras and cultures were fundamentally dissimilar and had to be evaluated within their own contexts and in recognition of the specific \"needs of that age\". Hegel's insistence that motives often differed from those professed, led to a more critical appraisal of source materials. Actions, motives and repercussions were increasingly scrutinized for consistency, and casual relationships became more and more important. The dialectic model had less immediate impact, but in later generations it has become a staple tenet in many historical interpretations.\n\nHegel expanded history writings by emphasizing on one of the following:",
+      "optionA": "Economic History",
+      "optionB": "Religious History",
+      "optionC": "History of Science and Technology",
+      "optionD": "Social History",
+      "correctAnswer": "D",
+      "explanation": "Hegel expanded history writings by emphasizing on Social History.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 308,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "UGC NET\/JRF EXAM",
+      "year": "2011",
+      "testName": "2011 December History Paper II",
+      "questionText": "Read the following passage carefully and choose the correct answer of the questions that follow:\n\nHegel's philosophy bridged the chasm separating Christian scholars and secular philosophers. He provided enough God to satisfy liberal Christians and an emphasis on reason that appeased the rationalists. In the process, he established new paradigms that swept through academia. His macro-historical approach widened the sphere of historical studies. It illustrated the benefits of expanding the studies that had hitherto been limited to political history and biographical works. New possibilities in social history were avidly accepted by the next generation of historians, including Karl Marx. Efforts were made to link separate histories into an all-encompassing world history. Hegel's division of history into four great epochs (the Oriental, the Greek, the Roman and the German) convinced many historians that different eras and cultures were fundamentally dissimilar and had to be evaluated within their own contexts and in recognition of the specific \"needs of that age\". Hegel's insistence that motives often differed from those professed, led to a more critical appraisal of source materials. Actions, motives and repercussions were increasingly scrutinized for consistency, and casual relationships became more and more important. The dialectic model had less immediate impact, but in later generations it has become a staple tenet in many historical interpretations.\n\nIn Hegel's words motives differ from those professed, but to understand this one requires to",
+      "optionA": "Have more critical appraisal of source material",
+      "optionB": "Try to identify motives",
+      "optionC": "Actions are to be underlined",
+      "optionD": "None of the above.",
+      "correctAnswer": "A",
+      "explanation": "In Hegel's words motives differ from those professed, but to understand this one requires to have more critical appraisal of source material.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2011",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
     }
   ],
   "sessions": [],
