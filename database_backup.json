@@ -1,9 +1,9 @@
 {
-  "updatedAt": 1790706065504,
+  "updatedAt": 1790707350645,
   "userId": "maxy",
   "displayName": "Maxy",
   "email": "genuineiswarari@gmail.com",
-  "totalQuestions": 650,
+  "totalQuestions": 725,
   "totalSessions": 0,
   "totalAttempts": 0,
   "questions": [
@@ -2328,7 +2328,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 135,
@@ -2351,7 +2351,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 136,
@@ -2374,7 +2374,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 137,
@@ -2397,7 +2397,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 138,
@@ -2420,7 +2420,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 139,
@@ -2443,7 +2443,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 140,
@@ -2466,7 +2466,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 141,
@@ -2489,7 +2489,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 142,
@@ -2512,7 +2512,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 143,
@@ -2535,7 +2535,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 144,
@@ -2558,7 +2558,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 145,
@@ -2581,7 +2581,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 146,
@@ -2604,7 +2604,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 147,
@@ -2627,7 +2627,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 148,
@@ -2650,7 +2650,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 149,
@@ -2673,7 +2673,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 150,
@@ -2696,7 +2696,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 151,
@@ -2719,7 +2719,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 152,
@@ -2742,7 +2742,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 153,
@@ -2765,7 +2765,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 154,
@@ -2788,7 +2788,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 155,
@@ -2811,7 +2811,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 156,
@@ -2834,7 +2834,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 157,
@@ -2857,7 +2857,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 158,
@@ -2880,7 +2880,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 159,
@@ -2903,7 +2903,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 160,
@@ -2926,7 +2926,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 161,
@@ -2949,7 +2949,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 162,
@@ -2972,7 +2972,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 163,
@@ -2995,7 +2995,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 164,
@@ -3018,7 +3018,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 165,
@@ -3041,7 +3041,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 166,
@@ -3064,7 +3064,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 167,
@@ -3087,7 +3087,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 168,
@@ -3110,7 +3110,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 169,
@@ -3133,7 +3133,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 170,
@@ -3156,7 +3156,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 171,
@@ -3179,7 +3179,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 172,
@@ -3202,7 +3202,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 173,
@@ -3225,7 +3225,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 174,
@@ -3248,7 +3248,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 175,
@@ -3271,7 +3271,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 176,
@@ -3294,7 +3294,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 177,
@@ -3317,7 +3317,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 178,
@@ -3340,7 +3340,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 179,
@@ -3363,7 +3363,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 180,
@@ -3386,7 +3386,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 181,
@@ -3409,7 +3409,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 182,
@@ -3432,7 +3432,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 183,
@@ -3455,7 +3455,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 184,
@@ -3478,7 +3478,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 185,
@@ -3501,7 +3501,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 186,
@@ -3524,7 +3524,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 187,
@@ -3547,7 +3547,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 188,
@@ -3570,7 +3570,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 189,
@@ -3593,7 +3593,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 190,
@@ -3616,7 +3616,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 191,
@@ -3639,7 +3639,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 192,
@@ -3662,7 +3662,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 193,
@@ -3685,7 +3685,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 194,
@@ -3708,7 +3708,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 195,
@@ -3731,7 +3731,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 196,
@@ -3754,7 +3754,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 197,
@@ -3777,7 +3777,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 198,
@@ -3800,7 +3800,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 199,
@@ -3823,7 +3823,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 200,
@@ -3846,7 +3846,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 201,
@@ -3869,7 +3869,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 202,
@@ -3892,7 +3892,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 203,
@@ -3915,7 +3915,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 204,
@@ -3938,7 +3938,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 205,
@@ -3961,7 +3961,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 206,
@@ -3984,7 +3984,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 207,
@@ -4007,7 +4007,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 208,
@@ -4030,7 +4030,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 3
+      "customOrder": 4
     },
     {
       "id": 209,
@@ -4053,7 +4053,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 210,
@@ -4076,7 +4076,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 211,
@@ -4099,7 +4099,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 212,
@@ -4122,7 +4122,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 213,
@@ -4145,7 +4145,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 214,
@@ -4168,7 +4168,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 215,
@@ -4191,7 +4191,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 216,
@@ -4214,7 +4214,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 217,
@@ -4237,7 +4237,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 218,
@@ -4260,7 +4260,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 219,
@@ -4283,7 +4283,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 220,
@@ -4306,7 +4306,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 221,
@@ -4329,7 +4329,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 222,
@@ -4352,7 +4352,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 223,
@@ -4375,7 +4375,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 224,
@@ -4398,7 +4398,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 225,
@@ -4421,7 +4421,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 226,
@@ -4444,7 +4444,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 227,
@@ -4467,7 +4467,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 228,
@@ -4490,7 +4490,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 229,
@@ -4513,7 +4513,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 230,
@@ -4536,7 +4536,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 231,
@@ -4559,7 +4559,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 232,
@@ -4582,7 +4582,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 233,
@@ -4605,7 +4605,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 234,
@@ -4628,7 +4628,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 235,
@@ -4651,7 +4651,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 236,
@@ -4674,7 +4674,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 237,
@@ -4697,7 +4697,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 238,
@@ -4720,7 +4720,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 239,
@@ -4743,7 +4743,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 240,
@@ -4766,7 +4766,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 241,
@@ -4789,7 +4789,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 242,
@@ -4812,7 +4812,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 243,
@@ -4835,7 +4835,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 244,
@@ -4858,7 +4858,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 245,
@@ -4881,7 +4881,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 246,
@@ -4904,7 +4904,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 247,
@@ -4927,7 +4927,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 248,
@@ -4950,7 +4950,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 249,
@@ -4973,7 +4973,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 250,
@@ -4996,7 +4996,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 251,
@@ -5019,7 +5019,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 252,
@@ -5042,7 +5042,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 253,
@@ -5065,7 +5065,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 254,
@@ -5088,7 +5088,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 255,
@@ -5111,7 +5111,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 256,
@@ -5134,7 +5134,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 257,
@@ -5157,7 +5157,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 258,
@@ -5180,7 +5180,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 4
+      "customOrder": 5
     },
     {
       "id": 259,
@@ -6353,7 +6353,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 310,
@@ -6376,7 +6376,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 311,
@@ -6399,7 +6399,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 312,
@@ -6422,7 +6422,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 313,
@@ -6445,7 +6445,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 314,
@@ -6468,7 +6468,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 315,
@@ -6491,7 +6491,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 316,
@@ -6514,7 +6514,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 317,
@@ -6537,7 +6537,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 318,
@@ -6560,7 +6560,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 319,
@@ -6583,7 +6583,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 320,
@@ -6606,7 +6606,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 321,
@@ -6629,7 +6629,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 322,
@@ -6652,7 +6652,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 323,
@@ -6675,7 +6675,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 324,
@@ -6698,7 +6698,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 325,
@@ -6721,7 +6721,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 326,
@@ -6744,7 +6744,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 327,
@@ -6767,7 +6767,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 328,
@@ -6790,7 +6790,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 329,
@@ -6813,7 +6813,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 330,
@@ -6836,7 +6836,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 331,
@@ -6859,7 +6859,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 332,
@@ -6882,7 +6882,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 333,
@@ -6905,7 +6905,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 334,
@@ -6928,7 +6928,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 335,
@@ -6951,7 +6951,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 336,
@@ -6974,7 +6974,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 337,
@@ -6997,7 +6997,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 338,
@@ -7020,7 +7020,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 339,
@@ -7043,7 +7043,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 340,
@@ -7066,7 +7066,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 341,
@@ -7089,7 +7089,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 342,
@@ -7112,7 +7112,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 343,
@@ -7135,7 +7135,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 344,
@@ -7158,7 +7158,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 345,
@@ -7181,7 +7181,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 346,
@@ -7204,7 +7204,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 347,
@@ -7227,7 +7227,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 348,
@@ -7250,7 +7250,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 349,
@@ -7273,7 +7273,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 350,
@@ -7296,7 +7296,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 351,
@@ -7319,7 +7319,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 352,
@@ -7342,7 +7342,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 353,
@@ -7365,7 +7365,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 354,
@@ -7388,7 +7388,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 355,
@@ -7411,7 +7411,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 356,
@@ -7434,7 +7434,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 357,
@@ -7457,7 +7457,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 358,
@@ -7480,7 +7480,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 359,
@@ -7503,7 +7503,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 360,
@@ -7526,7 +7526,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 361,
@@ -7549,7 +7549,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 362,
@@ -7572,7 +7572,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 363,
@@ -7595,7 +7595,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 364,
@@ -7618,7 +7618,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 365,
@@ -7641,7 +7641,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 366,
@@ -7664,7 +7664,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 367,
@@ -7687,7 +7687,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 368,
@@ -7710,7 +7710,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 369,
@@ -7733,7 +7733,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 370,
@@ -7756,7 +7756,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 371,
@@ -7779,7 +7779,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 372,
@@ -7802,7 +7802,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 373,
@@ -7825,7 +7825,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 374,
@@ -7848,7 +7848,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 375,
@@ -7871,7 +7871,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 376,
@@ -7894,7 +7894,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 377,
@@ -7917,7 +7917,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 378,
@@ -7940,7 +7940,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 379,
@@ -7963,7 +7963,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 380,
@@ -7986,7 +7986,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 381,
@@ -8009,7 +8009,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 382,
@@ -8032,7 +8032,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 383,
@@ -8055,7 +8055,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 5
+      "customOrder": 6
     },
     {
       "id": 482,
@@ -8078,7 +8078,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 483,
@@ -8101,7 +8101,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 484,
@@ -8124,7 +8124,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 485,
@@ -8147,7 +8147,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 486,
@@ -8170,7 +8170,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 487,
@@ -8193,7 +8193,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 488,
@@ -8216,7 +8216,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 489,
@@ -8239,7 +8239,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 490,
@@ -8262,7 +8262,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 491,
@@ -8285,7 +8285,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 492,
@@ -8308,7 +8308,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 493,
@@ -8331,7 +8331,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 494,
@@ -8354,7 +8354,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 495,
@@ -8377,7 +8377,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 496,
@@ -8400,7 +8400,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 497,
@@ -8423,7 +8423,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 498,
@@ -8446,7 +8446,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 499,
@@ -8469,7 +8469,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 500,
@@ -8492,7 +8492,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 501,
@@ -8515,7 +8515,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 502,
@@ -8538,7 +8538,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 503,
@@ -8561,7 +8561,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 504,
@@ -8584,7 +8584,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 505,
@@ -8607,7 +8607,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 506,
@@ -8630,7 +8630,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 507,
@@ -8653,7 +8653,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 508,
@@ -8676,7 +8676,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 509,
@@ -8699,7 +8699,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 510,
@@ -8722,7 +8722,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 511,
@@ -8745,7 +8745,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 512,
@@ -8768,7 +8768,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 513,
@@ -8791,7 +8791,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 514,
@@ -8814,7 +8814,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 515,
@@ -8837,7 +8837,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 516,
@@ -8860,7 +8860,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 517,
@@ -8883,7 +8883,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 518,
@@ -8906,7 +8906,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 519,
@@ -8929,7 +8929,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 520,
@@ -8952,7 +8952,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 521,
@@ -8975,7 +8975,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 522,
@@ -8998,7 +8998,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 523,
@@ -9021,7 +9021,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 524,
@@ -9044,7 +9044,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 525,
@@ -9067,7 +9067,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 526,
@@ -9090,7 +9090,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 527,
@@ -9113,7 +9113,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 528,
@@ -9136,7 +9136,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 529,
@@ -9159,7 +9159,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 530,
@@ -9182,7 +9182,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 531,
@@ -9205,7 +9205,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 6
+      "customOrder": 7
     },
     {
       "id": 532,
@@ -13828,7 +13828,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 733,
@@ -13851,7 +13851,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 734,
@@ -13874,7 +13874,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 735,
@@ -13897,7 +13897,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 736,
@@ -13920,7 +13920,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 737,
@@ -13943,7 +13943,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 738,
@@ -13966,7 +13966,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 739,
@@ -13989,7 +13989,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 740,
@@ -14012,7 +14012,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 741,
@@ -14035,7 +14035,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 742,
@@ -14058,7 +14058,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 743,
@@ -14081,7 +14081,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 744,
@@ -14104,7 +14104,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 745,
@@ -14127,7 +14127,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 746,
@@ -14150,7 +14150,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 747,
@@ -14173,7 +14173,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 748,
@@ -14196,7 +14196,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 749,
@@ -14219,7 +14219,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 750,
@@ -14242,7 +14242,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 751,
@@ -14265,7 +14265,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 752,
@@ -14288,7 +14288,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 753,
@@ -14311,7 +14311,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 754,
@@ -14334,7 +14334,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 755,
@@ -14357,7 +14357,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 756,
@@ -14380,7 +14380,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 757,
@@ -14403,7 +14403,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 758,
@@ -14426,7 +14426,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 759,
@@ -14449,7 +14449,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 760,
@@ -14472,7 +14472,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 761,
@@ -14495,7 +14495,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 762,
@@ -14518,7 +14518,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 763,
@@ -14541,7 +14541,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 764,
@@ -14564,7 +14564,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 765,
@@ -14587,7 +14587,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 766,
@@ -14610,7 +14610,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 767,
@@ -14633,7 +14633,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 768,
@@ -14656,7 +14656,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 769,
@@ -14679,7 +14679,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 770,
@@ -14702,7 +14702,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 771,
@@ -14725,7 +14725,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 772,
@@ -14748,7 +14748,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 773,
@@ -14771,7 +14771,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 774,
@@ -14794,7 +14794,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 775,
@@ -14817,7 +14817,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 776,
@@ -14840,7 +14840,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 777,
@@ -14863,7 +14863,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 778,
@@ -14886,7 +14886,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 779,
@@ -14909,7 +14909,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 780,
@@ -14932,7 +14932,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
     },
     {
       "id": 781,
@@ -14955,7 +14955,1732 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 7
+      "customOrder": 11
+    },
+    {
+      "id": 782,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "1. The method of Radiocarbon Dating was used in India for the first time at",
+      "optionA": "Deccan College, Pune",
+      "optionB": "Physical Research Laboratory, Ahmedabad",
+      "optionC": "School of Archaeology, New Delhi",
+      "optionD": "Tata Institute of Fundamental Research, Mumbai",
+      "correctAnswer": "D",
+      "explanation": "The method of Radiocarbon Dating was used in India for the first time at Tata Institute of Fundamental Research, Mumbai. TIFR is a public deemed research university that is dedicated to basic research in mathematics and the sciences. It works under umbrella of atomic energy of the government of India.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 783,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "2. Where were the first Palaeolithic tools found in India?",
+      "optionA": "Hallur",
+      "optionB": "Kurnool",
+      "optionC": "Pallavaram",
+      "optionD": "Tekkalkota",
+      "correctAnswer": "C",
+      "explanation": "In 1863, Robert Bruce Foote discovered the first conclusive paleolithic stone tool (A hand Axe) in India. He found the tool in Southern India (Pallavaram near Madras).",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 784,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "3. Arrange the following archaeologists in the chronological order and select the correct answer with the help of the codes given below:\n1. James Fergusson\n2. James Princep\n3. Alexander Cunningham\n4. Edward Thomas",
+      "optionA": "2, 1, 4, 3",
+      "optionB": "4, 2, 1, 3",
+      "optionC": "3, 4, 2, 1",
+      "optionD": "1, 3, 2, 4",
+      "correctAnswer": "A",
+      "explanation": "The correct chronological order is:\n1. James Princep (1799-1840)\n2. James Fergusson (1808-1886)\n3. Edward Thomas (1813-1886)\n4. Alexander Cunningham (1814-1893)",
+      "questionType": "CHRONOLOGY",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 785,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "4. The Harappan culture people inherited the knowledge of wheat, barley and cotton cultivation from their ancestors of the following:",
+      "optionA": "Kot Diji",
+      "optionB": "Amri",
+      "optionC": "Mehrgarh",
+      "optionD": "Kalibangan",
+      "correctAnswer": "C",
+      "explanation": "Mehrgarh is a neolithic archaeological site in Pakistan. Mehrgarh was a small farming village dated between 7000 BCE and 5000 BCE. The evidence of wheat, barley and cotton cultivation were found from This site.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 786,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "5. Match the List-I with List-II and select the correct answer from the codes given below:",
+      "optionA": "A-2, B-3, C-4, D-1",
+      "optionB": "A-1, B-4, C-2, D-3",
+      "optionC": "A-3, B-2, D-1, C-4",
+      "optionD": "A-4, B-1, C-3, D-2",
+      "correctAnswer": "A",
+      "explanation": "The correct matching is:\n\n| List-I (Kingdom) | List-II (King) |\n|---|---|\n| A. Kuru | 2. Parikshita |\n| B. Kekaya | 3. Asvapati |\n| C. Kasi | 4. Ajatasatru |\n| D. Vatsabhumi | 1. Nichakshu |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I (Kingdom) | List-II (King) |\n|---|---|\n| A. Kuru | 1. Nichakshu |\n| B. Kekaya | 2. Parikshita |\n| C. Kasi | 3. Asvapati |\n| D. Vatsabhumi | 4. Ajatasatru |",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 787,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "6. After Hastinapur was swept away by floods the Pandavas shifted their capital to",
+      "optionA": "Kausambi",
+      "optionB": "Kurukshetra",
+      "optionC": "Ahichchhatra",
+      "optionD": "Indraprastha",
+      "correctAnswer": "A",
+      "explanation": "The puranas stated that after Hastinapur was washed away by the Ganges, the Bharata king Nichakshu (great-great grandson of Janmejaya) abandoned the city and settled in Kaushambi. This view is supported by svapnavasavadatta attributed to Bhasa.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 788,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "7. Pataligrama, which later became the famous city of Pataliputra, had been fortified initially by",
+      "optionA": "Bimbisara",
+      "optionB": "Kalasoka",
+      "optionC": "Ajatasatru",
+      "optionD": "Udayabhadra",
+      "correctAnswer": "C",
+      "explanation": "Pataliputra was a city in ancient India originally built by Magadha ruler Ajatasatru in 490 BCE as a small fort (Pataligrama) near ganges. Pataliputra was used as capital by Udayin.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 789,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "8. 'Dharmaraja' too was a title of",
+      "optionA": "Ajatasatru",
+      "optionB": "Asoka",
+      "optionC": "Kanishka",
+      "optionD": "Harshvardhan",
+      "correctAnswer": "B",
+      "explanation": "'Dharmaraja' too was a title of Ashoka. Ashoka adopted two other titles Devanampiya and piyadassi. Devanampiya means \"beloved of the gods\" and piyadassi \"meant pleasant to behold\".",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 790,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "9. During Alexander's invasion of India which of the following was ruled by two hereditary kings with the help of a council of elders?",
+      "optionA": "Ashtakaraja",
+      "optionB": "Abhisara",
+      "optionC": "Kushdrakka",
+      "optionD": "Pattala",
+      "correctAnswer": "D",
+      "explanation": "The pattala was ruled by two hereditary kings with the help of council of elders at the time of Alexanders invasion. The ancient city of pattala was located at the mouth of Indus river. The Alexander's historians stated that the Indus parted into two branches at the city of pattala before reaching the sea.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 791,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "10. 'Pautavadhayaksha' was incharge of which department under the Mauryan administrative system?",
+      "optionA": "Weights and measures",
+      "optionB": "Forest resources",
+      "optionC": "Navy",
+      "optionD": "Shipping",
+      "correctAnswer": "A",
+      "explanation": "'Pautavadhayaksha' was incharge of weights and measures department.\n\n| Incharge | Department of Mauryan Period |\n|---|---|\n| Navadhayaksha | Navy |\n| Sitadhayaksha | Superintendent of the agriculture of crown land. |\n| Akaradhayaksha | Superintendent of mining. |\n| Suradhayaksha | Superintendent of excise who controlled the manufacture and sale of liquor. |",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 792,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "11. Match the List-I with List-II and select the correct answer from the codes given below:",
+      "optionA": "A-3, B-2, C-1, D-4",
+      "optionB": "A-2, B-1, C-3, D-4",
+      "optionC": "A-3, B-1, C-4, D-2",
+      "optionD": "A-1, B-3, C-4, D-2",
+      "correctAnswer": "C",
+      "explanation": "The correct matching is:\n\n| Ancient places | Modern location |\n|---|---|\n| Pushkalavati | Charsadda (Peshawar) |\n| Kapisa | Begram (Afghanistan) |\n| Gangavadi | Mysore |\n| Dvarsamudra | Halebid |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I (Ancient Places) | List-II (Modern Location) |\n|---|---|\n| A. Pushkalavati | 1. Begram (Afghanistan) |\n| B. Kapisa | 2. Halebid |\n| C. Gangavadi | 3. Charsadda (Peshawar) |\n| D. Dvarsamudra | 4. Mysore |",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 793,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "12. Identify the Tamil anthology which is devoted to the praise of Chera Kings",
+      "optionA": "Narriani",
+      "optionB": "Padirruppattu",
+      "optionC": "Aingurunuru",
+      "optionD": "Kuruntogai",
+      "correctAnswer": "B",
+      "explanation": "Padirruppattu is the Tamil anthology which is Dedicated to the praise of Chera kings.\nNarriani is in the first of Eight anthologies. It contains both Akam (love) and Puram (war, public life) category of poems.\nAingurunuru is in the third of eight Tamil anthology composed by Ma. Lokesvaran. It contains Akam (love and emotions) category poems.\nKuruntogai is a classical Tamil poetic work. The collection belong to akam (love) category and each poem consists of 4 to 8 lines each.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 794,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "13. Nahapana's defeat at the hands of Gautamiputra Satakarni is attested by which of the following coin-hoards?",
+      "optionA": "Erakina",
+      "optionB": "Nasik",
+      "optionC": "Qunduz",
+      "optionD": "Ujjayini",
+      "correctAnswer": "B",
+      "explanation": "Nahapana's defeat at the hands of Gautamiputra Satakarni is attested by Nasik coin hoards.\nNahapana was a shaka kshatrap who ruled Nasik. Gautamiputra Satakarni defeated him and he accepted vassalage of satakarni. After defeating Nahapana Gautamiputra called back his silver coins and reconstruct them.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 795,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "14. Who among the following rulers had performed the maximum number of Asvamedha sacrifices?",
+      "optionA": "Samudragupta",
+      "optionB": "Kumaragupta I",
+      "optionC": "Pushyamitra Sunga",
+      "optionD": "Pravarasena I",
+      "correctAnswer": "D",
+      "explanation": "Pravarasena I was ruler of Vakatak dynasty. They ruled in modern Maharashtra and Madhya Pradesh. They were contemporary of guptas. The dynasty was founded by Vindhyashakti. Pravarasena I was the real founder of Vakatak dynasty. He performed maximum Asvamedha Yajnas, four in number.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 796,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "15. A drama named 'Kautaleshwar Dautya' has been attributed to Kalidasa by",
+      "optionA": "Kuntalesha",
+      "optionB": "Bharavi",
+      "optionC": "Rajasekhara",
+      "optionD": "Kshemendra",
+      "correctAnswer": "D",
+      "explanation": "A drama named Kautaleshwar Dautya' has been attributed to Kalidasa by Kshemendra, 11th century sanskrit poet from Kashmir India. Kshemendra was disciple of famous Shaiva philosopher Abhinav Gupta. He Adopted title of \"Vyasadasa\" after compilation of Bharatmanjari. He also composed Dasavatarcharita.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 797,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-III",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "16. Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): Harshvardhana, according to the Chinese traveller Hiuen Tsang, not only followed Buddhism, but also had a marked antipathy to the Brahmanical religion.\nReason (R): Some seals which refer to his elder brother as a Buddhist describe Harsha as a devoted Saiva.\nIn the context of the above two statements, which one of the following is correct?",
+      "optionA": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "optionB": "Both (A) and (R) are true and (R) is not the correct explanation of (A).",
+      "optionC": "(A) is true, but (R) is false.",
+      "optionD": "(A) is false, but (R) is true.",
+      "correctAnswer": "D",
+      "explanation": "Assertion (A) is false because Hiuen Tsang states that although he (harsha) was buddhist but he patronised scholars of all religions.\nReason (R) is correct that some seals which refer to his elder brother as a buddhist describe Harsha as a devoted Shaiva.",
+      "questionType": "ASSERTION_REASON",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 798,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-III",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "17. Match the List-I with List-II and select the correct answer from the codes given below:",
+      "optionA": "A-2, B-1, C-4, D-3",
+      "optionB": "A-4, B-3, C-2, D-1",
+      "optionC": "A-3, B-4, C-1, D-2",
+      "optionD": "A-4, B-1, C-2, D-3",
+      "correctAnswer": "B",
+      "explanation": "The correct matching is:\n\n| Ancient Towns | Present Site |\n|---|---|\n| Anahilwad | Patan |\n| Aihole | Badami |\n| Dhanyakatak | Amaravati |\n| Dasapura | Mandsaur |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I (Ancient Towns) | List-II (Present Site) |\n|---|---|\n| A. Anahilavada | 1. Mandsor |\n| B. Aihole | 2. Amaravati |\n| C. Dhanyakatak | 3. Badami |\n| D. Dasapura | 4. Patan |",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 799,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-III",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "18. The temple of Rajarajesvara is dedicated to",
+      "optionA": "Kartikeya",
+      "optionB": "Siva",
+      "optionC": "Vishnu",
+      "optionD": "Surya",
+      "correctAnswer": "B",
+      "explanation": "The temple of Rajarajesvara is a Shiva temple located in Taliparamba in Kerala. The temple is regarded as one of the existing 108 ancient Shiva temples of Kerala. It had the tallest Shikara amongst the temples of its time. The Rajarajesvara temple has a top of about 90 tonnes. this temple is made by Raja raja chola.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 800,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-III",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "19. Identify the dynasty, the rulers of which called themselves Brahma-Kshatriya",
+      "optionA": "Pratihara",
+      "optionB": "Chalukya",
+      "optionC": "Sena",
+      "optionD": "Pala",
+      "correctAnswer": "C",
+      "explanation": "The rulers of Sena dynasty called themselves the Brahma Kshatriyas because they were Brahman warriors.\nThe Sena dynasty ruled Bengal in 11th and 12th century. The founder of Sena dynasty was Samanta Sena.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 801,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-III",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "20. Who among the following rulers provided financial help for the restoration of a demolished Mosque in Khambhat?",
+      "optionA": "Bhoja Paramara",
+      "optionB": "Mihira Bhoja",
+      "optionC": "Kumarapala",
+      "optionD": "Chamundaraja",
+      "correctAnswer": "D",
+      "explanation": "Chamundaraja ruler of Gujarat from Chalukya dynasty provided financial help for restoration of demolished mosque in Khambhat. Chamundaraja built Chandanatha and Vachineshwara temples in Anahilpataka (now Patan).",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 802,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-III",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "21. Which of the following dynasties is known for the involvement of women in its administration?",
+      "optionA": "Kalchuri",
+      "optionB": "Gahadavala",
+      "optionC": "Chahamana",
+      "optionD": "Chalukya",
+      "correctAnswer": "D",
+      "explanation": "Chalukya dynasty is known for the involvement of women in its administration. Chalukyas ruled parts of southern and central India between the 6th century and 12th century.\nThere were 3 distinct but related Chalukya dynasties\n1. Badami (oldest Chalukyas) ruled from vatapi\n2. Eastern -> ruled from vengi\n3. Western -> ruled from kalyani",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 803,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-III",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "22. Chronologically arrange the following events and select the correct answer from the codes given below:\n1. The collapse of Chalukya kingdom of Kalyani.\n2. Conquest of Sri Lanka by Rajendra Chola\n3. Annexation of Yadava kingdom of Devagiri to the Sultanate of Delhi.\n4. The visit of Marco Polo, the Venetian traveller to South India.",
+      "optionA": "1, 3, 2, 4",
+      "optionB": "2, 1, 4, 3",
+      "optionC": "2, 1, 3, 4",
+      "optionD": "1, 4, 3, 2",
+      "correctAnswer": "B",
+      "explanation": "The correct chronological order is:\n(2) Conquest of Sri Lanka by Rajendra Chola - 1029 A.D.\n(1) The collapse of chalukyan kingdom of Kalyani- 1200 A.D.\n(4) The visit of Marco polo, the venetian traveller to South India- (between 1292-1294 A.D)\n(3) Annexation of Yadava kingdom of Devagiri to the sultanate of Delhi- 1304 A.D.",
+      "questionType": "CHRONOLOGY",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 804,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "23. In which of the following works we get a detailed account of Firoz Shah's canal system?",
+      "optionA": "Futuhat-i Firoz Shahi",
+      "optionB": "Tarikh-i Mubarak Shahi",
+      "optionC": "Tarikh-i Firoz Shahi",
+      "optionD": "None of the above",
+      "correctAnswer": "B",
+      "explanation": "In Tarikh-i Mubarak Shahi we get detailed account of Firoz Shah's canal system.\nTarikh-i Mubarak Shahi is a history of India in the Sultanate period. The book commences from the reign of Muhammad Ghori to 1434 AD. Author of Tarikh-i Mubarak Shahi is Yahya bin Ahmad Sirhindi.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 805,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "24. Consider the following statements on the reforms of Alauddin Khalji:\n1. Confiscation of all grants of tax-free land.\n2. Introduction of daag and chehra in his military.\n3. Abolition of iqtas of big nobles and military commanders.\n4. Banning of public sale of liquor.\nSelect the correct answer from the codes given below:",
+      "optionA": "1, 2 and 3",
+      "optionB": "2, 3 and 4",
+      "optionC": "1, 2 and 4",
+      "optionD": "1, 3 and 4",
+      "correctAnswer": "C",
+      "explanation": "Correct statements on the reform of Allauddin Khalji-\n1. Confiscation of all grants of tax-free land.\n2. Introduction of daag and chehra in his military.\n4. Banning of public sale of liquor.",
+      "questionType": "MULTIPLE_STATEMENT",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 806,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "25. Who among the following was an Alvar Saint?",
+      "optionA": "Appar",
+      "optionB": "Kulasekhara",
+      "optionC": "Sambandar",
+      "optionD": "Venkatanatha",
+      "correctAnswer": "B",
+      "explanation": "Kulasekhara was Vaishnavite Alvars and devotional poet from Kerala. He was the author of \"Perumal Tirumali\" in Tamil and Mukundamala in sanskrit. All other saints Appar, Sambander and Venkatanath were Shaivite Nanyans.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 807,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "26. The Book of Marco Polo is primarily an account of",
+      "optionA": "Political history of South India",
+      "optionB": "Economic history of South India",
+      "optionC": "Cultural history of South India",
+      "optionD": "None of the above",
+      "correctAnswer": "B",
+      "explanation": "The Book of Marco Polo is primarily an account of economic history of South India.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 808,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "27. Arrange the visit of the following foreign travellers to South India in chronological sequential order and select the correct answer from the codes given below:\n1. A Nikitin\n2. Abdur Razzaq\n3. Caesar Fredrick\n4. Domingo Paes",
+      "optionA": "1, 3, 2, 4",
+      "optionB": "2, 3, 4, 1",
+      "optionC": "1, 2, 3, 4",
+      "optionD": "2, 1, 4, 3",
+      "correctAnswer": "D",
+      "explanation": "The correct chronological order is:\nAbdur Razzag (Early 1440s as ambassador in Kozhikodam.)\nNikitin (1469 in Bahmani)\nDomingo paes (around 1520 in Vijayanagara)\nCaesar Fredrick (1567 in Vijayanagar)",
+      "questionType": "CHRONOLOGY",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 809,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "28. Match the List-I with List-II and select the correct answer from the codes given below:",
+      "optionA": "A-2, B-3, C-1, D-4",
+      "optionB": "A-4, B-3, C-2, D-1",
+      "optionC": "A-1, B-2, C-3, D-4",
+      "optionD": "A-3, B-2, C-1, D-4",
+      "correctAnswer": "B",
+      "explanation": "The correct matching is:\n\n| Old names of places | Modern names |\n|---|---|\n| Baran | Bulandshahar |\n| Qarachil | Kullu |\n| Tabarhind | Bhatinda |\n| Patan | Anhilwara |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I (Old names of places) | List-II (Modern names) |\n|---|---|\n| A. Baran | 1. Anhilwara |\n| B. Qarachil | 2. Bhatinda |\n| C. Tabarhind | 3. Kullu |\n| D. Patan | 4. Bulandshahar |",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 810,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "29. Concerning the foundation of Tughlaq dynasty by Ghiyasuddin Tughlaq, which one of the following statements is not true?",
+      "optionA": "At the time of accession, Ghiyasuddin's authority had been unanimously accepted.",
+      "optionB": "Ghiyasuddin was having at his disposal a large number of loyal soldiers who extended support.",
+      "optionC": "In Delhi the people contributed a lot to the stability of the Sultanate",
+      "optionD": "The treasury of the empire which the Sultan inherited was very sound.",
+      "correctAnswer": "D",
+      "explanation": "Concerning the foundation of Tughlaq dynasty by Ghiyasuddin Tughlaq statement (d) is not correct that the treasury of the empire which sultan inherited was very sound.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 811,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "30. Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A) : The conduct of ruling authority in the Sultanate of Delhi was governed by the Shariat.\nReason (R) : The ideal of the state was not to convert the entire country from dar-ul-harb into dar-ul-Islam.\nIn the context of the above two statements, which one of the following is correct?",
+      "optionA": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "optionB": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+      "optionC": "(A) is true, but (R) is false.",
+      "optionD": "(A) is false, but (R) is true.",
+      "correctAnswer": "C",
+      "explanation": "Assertion (A) is correct that the conduct of ruling authority in Delhi sultanate of Delhi was governed by Shariat. But Reason (R) is not correct that the Ideal of state was not to convert the entire country from Dar-ul-Harb to Dar-ul-Islam.",
+      "questionType": "ASSERTION_REASON",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 812,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "31. Shaikh Sharfuddin Yahya Maneri belonged to the Sufi Silsilah",
+      "optionA": "Firdausi",
+      "optionB": "Chishti",
+      "optionC": "Suhrawardi",
+      "optionD": "Naqshbandi",
+      "correctAnswer": "A",
+      "explanation": "Shaikh Sharfuddin Yahya Maneri belonged to the Sufi Silsilah of Firdausi. Shaikh Sarfuddin Yahya Maneri became disciple of Shaikh Najeebuddin Firdausi of Mehraulli and was given the title of Firdausi. He settled in Bihar Sharif. Later Sultan Muhammad Tughlaq built a Khankah for him where he taught and trained disciples in Sufism.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 813,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "32. Which one of the following is not correct in respect of Baburnamah?",
+      "optionA": "The memoir of Babur is a historical source of great literary value.",
+      "optionB": "The events described are not in chronological order.",
+      "optionC": "Babur described every good or bad act with utmost impartiality.",
+      "optionD": "Historical events are inextricably mixed up with Babur's own opinions, sentiments and judgements.",
+      "correctAnswer": "B",
+      "explanation": "Statement (b) is not correct concerning Baburnamah is the events described in it are not in chronological order. Baburnama is the memoirs of Zahir-ud-din Babur. It is written in Turkish language. During Emperor Akbar's reign the work was completely translated to persian by a Mughal courtier, Abdul Rahim Khan-i-Khana.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 814,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "33. Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A) : All Jagirdars were primarily the mansabdars but not all mansabdars were Jagirdars.\nReason (R) : Some mansabdars were paid in cash and not through Jagirs.\nIn the context of the above two statements, which one of the following is correct?",
+      "optionA": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "optionB": "Both (A) and (R) are true and (R) is not the correct explanation of (A).",
+      "optionC": "(A) is true, but (R) is false.",
+      "optionD": "(A) is false, but (R) is true.",
+      "correctAnswer": "A",
+      "explanation": "Assertion (A) is true that all Jagirdars were primarily the mansabdars but not all mansabdars Jagirdars. Reason (R) is true that some mansabdars were paid in cash and not through Jagirs and (R) correctly explains (A).",
+      "questionType": "ASSERTION_REASON",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 815,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "34. Consider the following statements concerning the Rajput States of Central India and select the correct answer from the codes given below:\n(1) Baghelas ruled over Bandagarh\n(2) Dhandera was a Rajput principality in the Suba of Allahabad.\n(3) Orcha was located on the route linking the North and the Deccan.\n(4) Orcha was in the possession of the Bundela Rajputs.",
+      "optionA": "1, 2 and 3",
+      "optionB": "2, 3 and 4",
+      "optionC": "1, 3 and 4",
+      "optionD": "All of the above",
+      "correctAnswer": "C",
+      "explanation": "Statement (1, 3 and 4) are correct about Rajput states of Central India. Statement (2) is not correct because Dhandera Rajputana was in Haridwara district of Uttarakhanda.",
+      "questionType": "MULTIPLE_STATEMENT",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 816,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "35. Daag and Chehra in Mughal military administration were introduced during the reign of",
+      "optionA": "Akbar",
+      "optionB": "Jahangir",
+      "optionC": "Shahjahan",
+      "optionD": "Aurangzeb",
+      "correctAnswer": "A",
+      "explanation": "Daag and Chehra in Mughal military administration were introduced during the reign of Akbar. Daag and Chehra were first introduced by Sultan Allauddin Khalji.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 817,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-V",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "36. In the battle of Haldighati, Rana Pratap of Mewar was defeated by the Mughal army led by",
+      "optionA": "Abdur Rahim Khan-i Khana",
+      "optionB": "Raja Man Singh",
+      "optionC": "Raja Bhagwan Das",
+      "optionD": "Saadullah Khan",
+      "correctAnswer": "B",
+      "explanation": "The Battle of Haldighati was the battle fought on 18 June, 1576 between cavalry and archers supporting the Rana of Mewar Maharana Pratap and the Mughal emperor Akbar's forces led by Man Singh. The Mughals were the victors.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 818,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-V",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "37. Iwan in Mughal architectural terminology means",
+      "optionA": "a \"facade-gateway\" or high portal",
+      "optionB": "concave element in vaults, usually arched.",
+      "optionC": "configuration in the shape of a square or rectangle with corners",
+      "optionD": "a pillared construction of any dimensions and plan",
+      "correctAnswer": "D",
+      "explanation": "Iwan is a rectangular hall or space usually vaulted, walled on three sides with one end entirely open. The formal gateway to the iwan is called pishtaq, a persian term for a portal projecting from the facade of building, usually decorated with calligraphy bonds glazed tileworks and geometric designs.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 819,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-VI",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "38. Under which Mughal emperor naturalist trends in Mughal painting reached their apogee?",
+      "optionA": "Humayun",
+      "optionB": "Akbar",
+      "optionC": "Jahangir",
+      "optionD": "Shahjahan",
+      "correctAnswer": "C",
+      "explanation": "Under Mughal emperor Jahangir naturalist trends in Mughal Painting reached their apogee. Jahangir was lover of nature. Jahangirs most valuable contribution to the knowledge of zoology was a portrait of the Mauritian bird, the dodo.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 820,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-V",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "39. Who among the following remarked that, \"Unlike contemporary early modern European kings, the Mughal emperors did not depend upon loans from private financiers to meet routine expenditure.\"",
+      "optionA": "Irfan Habib",
+      "optionB": "Sanjay Subrahmanyam",
+      "optionC": "W.H. Moreland",
+      "optionD": "J.F. Richards",
+      "correctAnswer": "D",
+      "explanation": "J.F. Richards remarked that \"Unlike contemporary early modern European kings, the Mughal emperors did not depend upon loans from private financiers to meet routine expenditure.\"",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 821,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-VII",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "40. Match the List-I with List-II and select the correct answer from the codes given below:",
+      "optionA": "A-1, B-2, C-3, D-4",
+      "optionB": "A-1, B-2, C-4, D-3",
+      "optionC": "A-2, B-1, C-4, D-3",
+      "optionD": "A-2, B-1, C-3, D-4",
+      "correctAnswer": "C",
+      "explanation": "The correct matching is:\n\n| Place | Founder |\n|---|---|\n| City of Bikaner | Rao Bika |\n| Kirti stambha (Chittor) | Rana Kumbha |\n| City of Ahmedabad | Ahmed Shah I |\n| City of Hoshangabad | Alp Khan |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I (Place) | List-II (Founder) |\n|---|---|\n| A. City of Bikaner | 1. Rana Kumbha |\n| B. Kirti Stambha (Chittor) | 2. Rao Bika |\n| C. City of Ahmedabad | 3. Alp Khan |\n| D. City of Hoshangabad | 4. Ahmed Shah I |",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 822,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-VII",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "41. Which of the following pairs is not correctly matched?",
+      "optionA": "a",
+      "optionB": "b",
+      "optionC": "c",
+      "optionD": "d",
+      "correctAnswer": "C",
+      "explanation": "The national library of India is located in Kolkata. It is India's largest library by volume and public records National library is under Ministry of Culture, Government of India.\nCorrectly matched-\nKhudabakhs library - Patna\nBhandarkar oriental Research Institute - Pune\nSalarjung museum - Hyderabad",
+      "questionType": "TABLE",
+      "tableDataJson": "| Institution | Location |\n|---|---|\n| (a) Khudabakhs Library | Patna |\n| (b) Bhandarkar Oriental Research Institute | Pune |\n| (c) National Library | New Delhi |\n| (d) Salarjung Museum | Hyderabad |",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 823,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-VII",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "42. Arrange the following Peshwas in chronological order:\n1. Balaji Bajirao\n2. Bajirao II\n3. Madhav Rao I\n4. Madhav Rao Narayan",
+      "optionA": "1, 2, 4, 3",
+      "optionB": "1, 3, 4, 2",
+      "optionC": "2, 3, 1, 4",
+      "optionD": "3, 2, 4, 1",
+      "correctAnswer": "B",
+      "explanation": "The correct chronological order is:\nBalaji Bajirao (1740-1761)\nMadhav Rao I (1761-1772)\nMadhav Rao Narayan (1774-1796)\nBajirao II (1796-1818)",
+      "questionType": "CHRONOLOGY",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 824,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-VII",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "43. Which one of the following statements is not correct?",
+      "optionA": "In the Persian sources of the late medieval period of India, account on the life of rural society is very limited.",
+      "optionB": "The foreign travellers of the period who visited India in their accounts provide hardly any account on rural society.",
+      "optionC": "The regional literary sources help us to know the life and conditions of the rural people to some extent.",
+      "optionD": "The large mass of revenue records dealing with land revenue are of no help to construct the history of rural society in medieval India.",
+      "correctAnswer": "D",
+      "explanation": "Option (d) is not correct statement that the large mass of revenue records dealing with land revenue are of no help to construct the history of rural society in medieval India.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 825,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-VII",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "44. One of the following was not a major result of the Permanent Revenue Settlement of East India Company:",
+      "optionA": "It created a class of loyal landlords.",
+      "optionB": "Cultivators were put under the mercy of zamindars.",
+      "optionC": "It hampered the process of revenue increase to the company.",
+      "optionD": "Agricultural production got a major boost.",
+      "correctAnswer": "D",
+      "explanation": "Statement (d) was not a result of the Permanent Revenue Settlement of East India Company is that agricultural production got a major boost.\n19% of Britisher's area was under permanent settlement. This system was prevalent in Bengal, Bihar, Orissa, Banaras and North Karnataka. In this system zamindars have to pay 10\/11 part of revenue to company, this system exploited peasants.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 826,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-VII",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "45. Who was the Governor of Bengal between 1667 and 1669?",
+      "optionA": "Robert Clive",
+      "optionB": "Verelst",
+      "optionC": "Cartier",
+      "optionD": "Count de Lally",
+      "correctAnswer": "B",
+      "explanation": "Verelst was the Governor of Bengal between 1667 and 1669. John Cartier was governor from 1669-1672. Robert Clive was governor till 1765.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 827,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-VII",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "46. The founder of the Nizam's State in Hyderabad was",
+      "optionA": "Nizam Ali Khan",
+      "optionB": "Muzaffar Jung",
+      "optionC": "Chin Kilich Khan",
+      "optionD": "Mir Osman Ali Khan",
+      "correctAnswer": "C",
+      "explanation": "The founder of the Nizam's State in Hyderabad was Chin Kilich Khan. Kilich Khan disgusted with the Mughal emperor who had appointed Mubariz Khan as a full fledged Viceroy of Deccan, decided to fight Mubariz Khan. He defeated and Later killed Mubariz Khan in the Battle of Shakri-Kheda (1724). He now assumed the control of Deccan in 1725. He became Viceroy and conferred on himself the title of Asaf Jah.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 828,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-VIII",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "47. Arrange the following revolts in the chronological order and select the correct answer from the codes given below:\n1. Koli\n2. Santhal\n3. Chuar and Ho\n4. Waghera",
+      "optionA": "3, 4, 1, 2",
+      "optionB": "3, 4, 2, 1",
+      "optionC": "4, 3, 1, 2",
+      "optionD": "1, 3, 4, 2",
+      "correctAnswer": "A",
+      "explanation": "The correct chronological order is:\n3. Chuar and Ho Revolt - 1766-72 and 1795-1816.\n4. Waghera uprising - 1818-20.\n1. Koli uprising - 1829, 1839 and 1844-1848.\n2. Santhal revolt - 1855-56.",
+      "questionType": "CHRONOLOGY",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 829,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-VIII",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "48. The English East India Company lost its monopoly of Indian trade by throwing it open to the Britishers by the Charter Act of",
+      "optionA": "1793",
+      "optionB": "1813",
+      "optionC": "1833",
+      "optionD": "1853",
+      "correctAnswer": "B",
+      "explanation": "The English East India Company lost its monopoly of Indian trade by Charter Act of 1813 but retained the trade with China and the trade of tea.\nThe company was to retain the possession of territories and the revenue for 20 years more in 1813 Charter Act.\nA sum of one lakh rupees was to be set aside for the revival, promotion and encouragement of literature learning and science among natives of India every year.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 830,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "49. Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): Harshvardhana, according to the Chinese traveller Hiuen Tsang, not only followed Buddhism, but also had a marked antipathy to the Brahmanical religion.\nReason (R): Some seals which refer to his elder brother as a Buddhist describe Harsha as a devoted Saiva.\nIn the context of the above two statements, which one of the following is correct?",
+      "optionA": "(A) is true, but (R) is false.",
+      "optionB": "(A) is false, but (R) is true.",
+      "optionC": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "optionD": "Both (A) and (R) are true and (R) is not the correct explanation of (A).",
+      "correctAnswer": "D",
+      "explanation": "Both (A) and (R) are true but (R) is not correct explanation of (A).",
+      "questionType": "ASSERTION_REASON",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 831,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "50. Who was the Governor of Madras in 1661?",
+      "optionA": "Fox Croft",
+      "optionB": "Streysham",
+      "optionC": "Gerald Aungier",
+      "optionD": "Charles Boone",
+      "correctAnswer": "A",
+      "explanation": "George Foxcroft was the governor of Madras in 1661. He was preceded by Edward Winter and succeeded by William Langham.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 832,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "51. Which one of the following policy document was called the 'Magna Carta' of Western education system in India?",
+      "optionA": "MaCaulay's Minute of 1835",
+      "optionB": "Indian Education Commission Report of 1882",
+      "optionC": "Charles Woods Despatch of 1854",
+      "optionD": "Releigh Commission Report of 1902",
+      "correctAnswer": "C",
+      "explanation": "Woods despatch is considered the Magna Carta of English education in India.\nWood's despatch-\n1. It asked the government of India to assume responsibility for education of masses.\n2. It recommended English as a medium of instruction for higher studies and vernacular at school level.\n3. It laid stress on female and vocational education and on teachers training.\n4. It laid down that the education imported in government institution should be secular.\n5. It recommended a system of grants in aid to encourage private enterprise etc.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 833,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "52. In whose honour Gateway of India was built?",
+      "optionA": "King George V",
+      "optionB": "King George VI",
+      "optionC": "Prince of Wales",
+      "optionD": "Queen Victoria",
+      "correctAnswer": "A",
+      "explanation": "The Gateway of India was built to Commemorate the arrival of George V in India at Appollo Bunder Mumbai on 2 December, 1911 prior to Delhi Darbar of 1911. It was first visit of British monarch in India. Foundation stone of gateway was laid on 31 March, 1913 by Sir George Sydenham Clarke.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 834,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "53. Match the List-I with List-II and select the correct answer from the codes given below:",
+      "optionA": "A-3, B-2, C-4, D-1",
+      "optionB": "A-2, B-4, C-3, D-1",
+      "optionC": "A-2, B-1, C-3, D-4",
+      "optionD": "A-2, B-4, C-1, D-3",
+      "correctAnswer": "D",
+      "explanation": "The correct matching is:\n\n| List-I | List-II |\n|---|---|\n| Dadabhai Naoroji | Rast Goftar |\n| Dwarakanath Vidyahbushan | Somaprakasha |\n| Devendranath Tagore | Indian Mirror |\n| G.S. Aiyer | Swadeshamitram |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| A. Dadabhai Naoroji | 1. Indian Mirror |\n| B. Dwarakanath Vidyahbushan | 2. Rast Goftar |\n| C. Devendranath Tagore | 3. Swadeshamitram |\n| D. G.S. Aiyer | 4. Somaprakasha |",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 835,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "54. Veda Samaj founded under the initiative of Kesab Chandra Sen in 1864 in Madras was renamed as the Brahmo Samaj of South India in 1871 by",
+      "optionA": "Sir R. Venkataratnam Naidu",
+      "optionB": "Rajagopala Naidu",
+      "optionC": "Subbarayala Chetti",
+      "optionD": "K. Sreedharalu Naidu",
+      "correctAnswer": "D",
+      "explanation": "Veda Samaj was established by Keshab Chandra Sen and K. Sreedharalu Naidu when the former visited Madras in 1864. K. Sreedharalu Naidu later visited Calcutta to study the Brahmo Samaj movement and when he returned, he renamed the Veda Samaj of Southern India in 1871.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 836,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "55. Arrange the following Viceroys in chronological order and select the correct answer from the codes given below:\n(a) Lord Reading\n(b) Earl of Willingdon\n(c) Sir John Lawrence\n(d) Earl of Dufferin",
+      "optionA": "1, 2, 4, 3",
+      "optionB": "3, 4, 1, 2",
+      "optionC": "2, 3, 1, 4",
+      "optionD": "4, 3, 2, 1",
+      "correctAnswer": "B",
+      "explanation": "The correct chronological order is:\n3. Sir John Lawrence (1864-1869)\n4. Earl of Dufferin (1884-1888)\n1. Lord Reading (1921-1926)\n2. Earl of Willingdon (1931-1936)",
+      "questionType": "CHRONOLOGY",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 837,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "56. Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):\nAssertion (A): Indian States Commission reiterated that 'Paramountcy must remain Paramount'.\nReason (R): The British were disenchanted with the new corporate princely culture.\nIn the context of the above two statements, which one of the following is correct?",
+      "optionA": "(A) is true, but (R) is false.",
+      "optionB": "(A) is false, but (R) is true.",
+      "optionC": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "optionD": "Both (A) and (R) are true and (R) is not the correct explanation of (A).",
+      "correctAnswer": "C",
+      "explanation": "Assertion (A) is true that Indian states commission reiterated that paramountcy must remain paramount. Reason (R) is true that the british were enchanted with the new corporate princely culture is true and (R) explains (A).",
+      "questionType": "ASSERTION_REASON",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 838,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "57. Arrange the following Commissions in the chronological order and select the correct answer from the codes given below:\n1. Kothari Commission\n2. Radhakrishnan Commission\n3. Sadler Commission\n4. University Grants Commission",
+      "optionA": "3, 2, 4, 1",
+      "optionB": "2, 3, 4, 1",
+      "optionC": "4, 3, 1, 2",
+      "optionD": "3, 2, 1, 4",
+      "correctAnswer": "A",
+      "explanation": "The correct chronological order is:\n3. Sadler Commission (1917-1919)\n2. Radhakrishnan Commission (1948-49)\n4. University Grants Commission (1956)\n1. Kothari Commission (14 July 1964)",
+      "questionType": "CHRONOLOGY",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 839,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "58. Mrs. Annie Besant became the first woman President of Indian National Congress in the year",
+      "optionA": "1916",
+      "optionB": "1917",
+      "optionC": "1919",
+      "optionD": "1921",
+      "correctAnswer": "B",
+      "explanation": "Mrs. Annie Besant became the first woman President of Indian National Congress in the year 1917. Annie Besant presided Calcutta Session of congress in 1917. This session strongly condemned the Jalianwala massacre and boosted the Khilafat movement.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 840,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "59. Who said in 1904 that \"Bengal United is a power\", \"Bengal divided will pull in several different ways.\"?",
+      "optionA": "Lord Curzon",
+      "optionB": "Herbert Risley",
+      "optionC": "Lord Minto",
+      "optionD": "Sir Lancelot Hare",
+      "correctAnswer": "B",
+      "explanation": "Herbert Risley home secretary to the government of India in 1904 said that \"Bengal United is a power, Bengal divided will pull in several different ways.\"",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 841,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "60. Shyamji Krishna Varma set up the India House in London to work for India's freedom in the year",
+      "optionA": "1902",
+      "optionB": "1905",
+      "optionC": "1907",
+      "optionD": "1909",
+      "correctAnswer": "B",
+      "explanation": "Shyamji Krishna Varma had set up the India House in London to work for India's freedom in the year 1905. India house was residence for students of India in London with the patronage of lawyer Shyamji Krishnavarma. It was opened to promote nationalist views among Indian students in Britain.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 842,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "61. Who has called Gopal Krishna Gokhale a rare combination of \"the practical, strenuous worker and the mystic dreamer of dreams\"?",
+      "optionA": "Mrs. Sarojini Naidu",
+      "optionB": "Mrs. Annie Besant",
+      "optionC": "Ganesh Savarkar",
+      "optionD": "V.D. Savarkar",
+      "correctAnswer": "A",
+      "explanation": "Mrs. Sarojini Naidu called Gopal Krishna Gokhale a rare combination of \"the practical, strenuous worker and the mystic dreamer of dreams\".",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 843,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "62. Vaikom Satyagraha was launched by Gandhi in Kerala to",
+      "optionA": "ban devadasi system in temple services.",
+      "optionB": "remove untouchability",
+      "optionC": "for the appointment of non-Brahmins as priests",
+      "optionD": "open the temples for the entry of avarnas or lower castes.",
+      "correctAnswer": "D",
+      "explanation": "Vaikom Satyagraha was a movement in Travancore (Modern day kerala) for temple entry of the depressed classes. It took place near the shiva temple at Vaikom in 1924-25. Vaikam was at that time part of the princely state of Travancore.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 844,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-X",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "63. Match the List-I with List-II and select the correct answer from the codes given below:",
+      "optionA": "A-4, B-1, C-2, D-3",
+      "optionB": "A-4, B-2, C-3, D-1",
+      "optionC": "A-1, B-3, C-4, D-2",
+      "optionD": "A-3, B-1, C-4, D-2",
+      "correctAnswer": "A",
+      "explanation": "The correct matching is:\n\n| List-I | List-II |\n|---|---|\n| Collins, Larry and Lapierre | Freedom at midnight |\n| Judith Brown | Gandhi's rise to power |\n| Salman Rushdie | Satanic verses |\n| H.V. Hudson | The Great divide Britain-India-Pakistan |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| A. Collins, Larry and Lapierre | 1. Satanic Verses |\n| B. Judith Brown | 2. The Great Divide : Britain-India-Pakistan |\n| C. Salman Rushdie | 3. Freedom At Midnight |\n| D. H.V. Hudson | 4. Gandhi's Rise to Power |",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 845,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-X",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "64. Who has remarked, 'history is more interesting than a novel'?",
+      "optionA": "David Hume",
+      "optionB": "Toynbee",
+      "optionC": "Livy",
+      "optionD": "Tacitus",
+      "correctAnswer": "A",
+      "explanation": "David Hume remarked, 'history is more interesting than a novel'.\nDavid Hume was a Scottish enlightenment philosopher, historian, economist who is best known today for his highly influential system of philosophical empiricism, Scepticism and naturalism.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 846,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-X",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "65. Concerning relation of history with other subjects which one of the following statements is not correct?",
+      "optionA": "Modern economic history is supported by statistical data to a considerable extent.",
+      "optionB": "For a long time history was not considered as a branch of literature.",
+      "optionC": "The relation between creative ideas and their impact on society has resulted in the formation of intellectual history.",
+      "optionD": "Time and space factors give history its correct perspective.",
+      "correctAnswer": "B",
+      "explanation": "Concerning relation of history with other subjects statement (b) is not correct that for a long time history was not considered as a branch of literature.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 847,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-X",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "66. Who among the following declared that the postmodernist ideas were a menace to historical study?",
+      "optionA": "Arthur Marvic",
+      "optionB": "Holden Furber",
+      "optionC": "Richard J. Evans",
+      "optionD": "H.E. Barnes",
+      "correctAnswer": "A",
+      "explanation": "Arthur Marvic declared that the postmodernist ideas were a menace to historical study.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 848,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-X",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "67. Consider the following observations relating to Renaissance and select the correct answer from the codes given below:\n(1) Renaissance was marked with a new kind of learning signified by a spirit of inquiry into every aspect of human thought.\n(2) More emphasis was given to man and humanism than to god and spiritualism.\n(3) The study of the works produced by ancient Greek and Roman scholars was not given importance.\n(4) The humanist movement which ushered in Renaissance could not emancipate the western thought from the bondage of medieval Christianity.",
+      "optionA": "1 and 2",
+      "optionB": "1 and 3",
+      "optionC": "2, 3 and 4",
+      "optionD": "1, 2, 3 and 4",
+      "correctAnswer": "A",
+      "explanation": "Statement (1) and (2) are true about Renaissance\n(1) Renaissance was marked with a new kind of learning signified by a spirit of enquiry into every aspect of human thought.\n(2) More emphasis was given to man and humanism than to god and spiritualism.",
+      "questionType": "MULTIPLE_STATEMENT",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 849,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-X",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "68. Match the List-I with List-II and select the correct answer from the codes given below:",
+      "optionA": "A-2, B-1, C-3, D-4",
+      "optionB": "A-3, B-4, C-2, D-1",
+      "optionC": "A-4, B-3, C-1, D-2",
+      "optionD": "A-2, B-3, C-4, D-1",
+      "correctAnswer": "A",
+      "explanation": "The correct matching is:\n\n| List-I | List-II |\n|---|---|\n| Montesquieu | The spirit of laws |\n| Dante | Divine comedy |\n| Rousseau | The social contract |\n| Machiavelli | The Prince |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| A. Montesquieu | 1. Divine Comedy |\n| B. Dante | 2. The Spirit of Laws |\n| C. Rousseau | 3. The Social Contract |\n| D. Machiavelli | 4. The Prince |",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 850,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-X",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "69. Match the List-I with List-II and select the correct answer from the codes given below:",
+      "optionA": "A-3, B-1, C-4, D-2",
+      "optionB": "A-4, B-3, C-1, D-2",
+      "optionC": "A-3, B-4, C-1, D-2",
+      "optionD": "A-1, B-3, C-2, D-4",
+      "correctAnswer": "A",
+      "explanation": "The correct matching is:\n\n| List-I | List-II |\n|---|---|\n| Jacob Burckhardt | The Civilization of the Renaissance in Italy |\n| Ignatius of Loyola | The Society of Jesus |\n| John Calvin | Institutes of the Christian Religion |\n| Immanuel Kant | Critique of Pure Reason |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| A. Jacob Burckhardt | 1. The Society of Jesus |\n| B. Ignatius of Loyola | 2. Critique of Pure Reason |\n| C. John Calvin | 3. The Civilization of the Renaissance in Italy |\n| D. Immanuel Kant | 4. Institutes of the Christian Religion |",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 851,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-X",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "70. The Durham Report advocated the need of a gradual emancipation of British Colonies towards a state of complete independence. The recommendation was applied to",
+      "optionA": "The Colonies in Africa",
+      "optionB": "The Colonies in Asia",
+      "optionC": "The Colonies in Europe",
+      "optionD": "All of the above",
+      "correctAnswer": "C",
+      "explanation": "The Durham Report advocated the need of a gradual emancipation of British Colonies towards a state of complete independence. The recommendation was applied to the colonies in Europe.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 852,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "71. Asoka is throughout referred to as 'Devannapiya' and 'Piyadasi' in his edicts except a few. Which are such exceptions?\n1. Maski\n2. Gurjara\n3. Nittur\n4. Udegalom\nSelect the correct answer with the help of the codes given below:",
+      "optionA": "1 only",
+      "optionB": "1 and 2",
+      "optionC": "1, 3 and 4",
+      "optionD": "1, 2, 3 and 4",
+      "correctAnswer": "D",
+      "explanation": "Asoka is throughout referred to as 'Devannapiya' and 'Piyadasi' in his edicts except Maski, Gurjara, Nittur, Udegalom.\nIn inscription of Darius I Ashoka is described as Devannapiya and Piyadasi.",
+      "questionType": "MULTIPLE_STATEMENT",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 853,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "72. Which is that source which gives a lie to the tradition of a fratricidal war of Asoka?",
+      "optionA": "Asokavadana",
+      "optionB": "Dipavamsa",
+      "optionC": "Asokan Rock Edict IV",
+      "optionD": "Asokan Pillar Edict VII",
+      "correctAnswer": "C",
+      "explanation": "Asokan Rock Edict IV gives a lie to the tradition of a fratricidal war of Ashoka.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 854,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "73. Which one of the following did not form part of the Asokan empire?",
+      "optionA": "Tamilakam",
+      "optionB": "Saurashtra",
+      "optionC": "Kandahar",
+      "optionD": "Kashmir",
+      "correctAnswer": "A",
+      "explanation": "Tamilakam was not part of Ashokan empire. Ashokan empire extended till Afghanistan in NorthWest, Karnataka in South. Kathiawar in West and in East till Bay of Bengal.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 855,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "74. In which of his edicts does Asoka express remorse for the sufferings caused by the Kalinga war?",
+      "optionA": "Separate Kaling Edicts",
+      "optionB": "Bhabru Edict",
+      "optionC": "Rock Edict XIII",
+      "optionD": "Rock Edict IV",
+      "correctAnswer": "C",
+      "explanation": "Ashoka in Rock Edict XIII express remorse for the sufferings caused by the Kalinga war.\nRock Edict IV describes appointment of Rajuka.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
+    },
+    {
+      "id": 856,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2013",
+      "testName": "UGC NET\/JRF Exam, December 2013 History Paper-III",
+      "questionText": "75. In which of his following inscriptions did Asoka declare that all people were his children?",
+      "optionA": "Minor Rock Edict I",
+      "optionB": "Rock Edict XII",
+      "optionC": "Separate Kaling Edict",
+      "optionD": "Rummindei Pillar Edict",
+      "correctAnswer": "A",
+      "explanation": "In minor Rock Edict I Ashoka declares that all people were his children.\nRummindei Pillar Edict described Ashoka's visit to Lumbini and cutting of taxes from 1\/6 to 1\/8 part.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 3
     }
   ],
   "sessions": [],
