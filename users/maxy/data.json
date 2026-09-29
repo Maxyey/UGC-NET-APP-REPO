@@ -1,9 +1,9 @@
 {
-  "updatedAt": 1790707341801,
+  "updatedAt": 1790707714819,
   "userId": "maxy",
   "displayName": "Maxy",
   "email": "genuineiswarari@gmail.com",
-  "totalQuestions": 725,
+  "totalQuestions": 775,
   "totalSessions": 0,
   "totalAttempts": 0,
   "questions": [
@@ -14978,7 +14978,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 783,
@@ -15001,7 +15001,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 784,
@@ -15024,7 +15024,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 785,
@@ -15047,7 +15047,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 786,
@@ -15070,7 +15070,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 787,
@@ -15093,7 +15093,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 788,
@@ -15116,7 +15116,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 789,
@@ -15139,7 +15139,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 790,
@@ -15162,7 +15162,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 791,
@@ -15185,7 +15185,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 792,
@@ -15208,7 +15208,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 793,
@@ -15231,7 +15231,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 794,
@@ -15254,7 +15254,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 795,
@@ -15277,7 +15277,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 796,
@@ -15300,7 +15300,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 797,
@@ -15323,7 +15323,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 798,
@@ -15346,7 +15346,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 799,
@@ -15369,7 +15369,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 800,
@@ -15392,7 +15392,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 801,
@@ -15415,7 +15415,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 802,
@@ -15438,7 +15438,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 803,
@@ -15461,7 +15461,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 804,
@@ -15484,7 +15484,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 805,
@@ -15507,7 +15507,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 806,
@@ -15530,7 +15530,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 807,
@@ -15553,7 +15553,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 808,
@@ -15576,7 +15576,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 809,
@@ -15599,7 +15599,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 810,
@@ -15622,7 +15622,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 811,
@@ -15645,7 +15645,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 812,
@@ -15668,7 +15668,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 813,
@@ -15691,7 +15691,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 814,
@@ -15714,7 +15714,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 815,
@@ -15737,7 +15737,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 816,
@@ -15760,7 +15760,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 817,
@@ -15783,7 +15783,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 818,
@@ -15806,7 +15806,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 819,
@@ -15829,7 +15829,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 820,
@@ -15852,7 +15852,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 821,
@@ -15875,7 +15875,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 822,
@@ -15898,7 +15898,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 823,
@@ -15921,7 +15921,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 824,
@@ -15944,7 +15944,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 825,
@@ -15967,7 +15967,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 826,
@@ -15990,7 +15990,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 827,
@@ -16013,7 +16013,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 828,
@@ -16036,7 +16036,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 829,
@@ -16059,7 +16059,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 830,
@@ -16082,7 +16082,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 831,
@@ -16105,7 +16105,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 832,
@@ -16128,7 +16128,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 833,
@@ -16151,7 +16151,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 834,
@@ -16174,7 +16174,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 835,
@@ -16197,7 +16197,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 836,
@@ -16220,7 +16220,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 837,
@@ -16243,7 +16243,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 838,
@@ -16266,7 +16266,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 839,
@@ -16289,7 +16289,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 840,
@@ -16312,7 +16312,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 841,
@@ -16335,7 +16335,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 842,
@@ -16358,7 +16358,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 843,
@@ -16381,7 +16381,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 844,
@@ -16404,7 +16404,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 845,
@@ -16427,7 +16427,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 846,
@@ -16450,7 +16450,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 847,
@@ -16473,7 +16473,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 848,
@@ -16496,7 +16496,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 849,
@@ -16519,7 +16519,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 850,
@@ -16542,7 +16542,7 @@
       "difficulty": "Hard",
       "cognitiveLevel": "Application",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 851,
@@ -16565,7 +16565,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 852,
@@ -16588,7 +16588,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 853,
@@ -16611,7 +16611,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 854,
@@ -16634,7 +16634,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 855,
@@ -16657,7 +16657,7 @@
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
-      "customOrder": 0
+      "customOrder": 11
     },
     {
       "id": 856,
@@ -16677,6 +16677,1156 @@
       "tableDataJson": "",
       "graphImageUrl": "",
       "repeatYears": "2013",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 11
+    },
+    {
+      "id": 857,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "1. Match List-I with List-II and select the correct answer from the code given below:",
+      "optionA": "A-1, B-2, C-3, D-4",
+      "optionB": "A-2, B-3, C-4, D-1",
+      "optionC": "A-3, B-1, C-2, D-4",
+      "optionD": "A-2, B-4, C-3, D-1",
+      "correctAnswer": "B",
+      "explanation": "The correct matching is:\n\n| List-I | List-II |\n|---|---|\n| A. Grid system of excavation | R.E.M. Wheeler |\n| B. Principle of stratigraphy | Thomas Jefferson |\n| C. Radiocarbon method of dating | F.W. Libby |\n| D. Three dimensional method of recording | Pitt Rivers |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| A. Grid system of excavation | 1. Pitt Rivers |\n| B. Principle of stratigraphy | 2. R.E.M. Wheeler |\n| C. Radiocarbon method of dating | 3. Thomas Jefferson |\n| D. Three dimensional method of recording | 4. F.W. Libby |",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 858,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "2. In which area the neolithic man lived in underground pits?",
+      "optionA": "Karnataka",
+      "optionB": "Assam",
+      "optionC": "Kashmir",
+      "optionD": "Madhya Pradesh",
+      "correctAnswer": "C",
+      "explanation": "In Kashmir the neolithic man lived in underground pits. The evidence of pit dwellings were found from Burzahom. 1st neolithic site was excavated in Kashmir.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 859,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "3. Match List-I (items found in Harappan site) with List-II (possible sources) and select the correct answer from the code given below:",
+      "optionA": "A-3, B-4, C-1, D-2",
+      "optionB": "A-1, B-3, C-2, D-4",
+      "optionC": "A-2, B-3, C-4, D-1",
+      "optionD": "A-2, B-3, C-4, D-1",
+      "correctAnswer": "C",
+      "explanation": "The correct matching is:\n\n| List-I | List-II |\n|---|---|\n| A. Copper | Rajasthan |\n| B. Shell | Kutch |\n| C. Lapis Lazuli | Afghanistan |\n| D. Gold | Deccan |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| A. Copper | 1. Deccan |\n| B. Shell | 2. Rajasthan |\n| C. Lapis Lazuli | 3. Kutch |\n| D. Gold | 4. Afghanistan |",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 860,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "4. Which among the following weapons of war have not been found in the remains of the Harappan culture?\n1. Bows and Arrows\n2. Swords\n3. Shields\n4. Helmets\nSelect the correct answer with the help of the code given below:",
+      "optionA": "1 only",
+      "optionB": "1 and 2",
+      "optionC": "2 and 3",
+      "optionD": "2, 3 and 4",
+      "correctAnswer": "D",
+      "explanation": "Swords, shields and helmets have not been found in the remains of the Harappan culture. Bows and arrows were found from Harappan culture.",
+      "questionType": "MULTIPLE_STATEMENT",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 861,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "5. Who among the following priests had the duty to supervise the performance of a sacrifice?",
+      "optionA": "Hotra",
+      "optionB": "Brahma",
+      "optionC": "Udgata",
+      "optionD": "Adharyu",
+      "correctAnswer": "B",
+      "explanation": "Brahma priest had the duty to supervise the performance of a sacrifice. Hotra was related to chanting to mantras. Udgata was related to Samveda.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 862,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-I",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "6. Match List-I with List-II and select the correct answer from the code given below:",
+      "optionA": "A-1, B-2, C-3, D-4",
+      "optionB": "A-2, B-3, C-4, D-1",
+      "optionC": "A-4, B-3, C-2, D-1",
+      "optionD": "A-2, B-1, C-4, D-3",
+      "correctAnswer": "B",
+      "explanation": "The correct matching is:\n\n| List-I | List-II |\n|---|---|\n| A. Srautasutra | Rules relating to sacrifices |\n| B. Grihyasutra | Domestic Rights |\n| C. Dharmasutra | Dharma or Law |\n| D. Sulvasutra | Measuring of fire altars |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| A. Srautasutra | 1. Measuring of fire altars |\n| B. Grihyasutra | 2. Rules relating to sacrifices |\n| C. Dharmasutra | 3. Domestic Rights |\n| D. Sulvasutra | 4. Dharma or Law |",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 863,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "7. Which one of the following pairs is not correct?",
+      "optionA": "a",
+      "optionB": "b",
+      "optionC": "c",
+      "optionD": "d",
+      "correctAnswer": "C",
+      "explanation": "Pair (c) is not correctly matched because Hunting and gathering was not trait of Mesolithic age. It was a trait of Palaeolithic age.",
+      "questionType": "TABLE",
+      "tableDataJson": "| Codes | |\n|---|---|\n| (a) Lower Palaeolithic | Hunting gathering |\n| (b) Upper Palaeolithic | Hunting gathering |\n| (c) Mesolithic | Hunting gathering |\n| (d) Neolithic | Food Production |",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 864,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "8. Match the List-I with List-II and select the correct answer from the codes given below:",
+      "optionA": "A-2, B-3, C-1, D-4",
+      "optionB": "A-2, B-3, C-2, D-4",
+      "optionC": "A-2, B-4, C-3, D-1",
+      "optionD": "A-2, B-4, C-3, D-1",
+      "correctAnswer": "A",
+      "explanation": "The correct matching is:\n\n| List-I | List-II |\n|---|---|\n| (a) Sarai Khola | Pakistan |\n| (b) Tarkhanwaladera | Rajasthan |\n| (c) Kunal | Haryana |\n| (d) Shikarpur | Gujarat |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| (a) Sarai Khola | (i) Haryana |\n| (b) Tarkhanwaladera | (ii) Pakistan |\n| (c) Kunal | (iii) Rajasthan |\n| (d) Shikarpur | (iv) Gujarat |",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 865,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "9. Which one of the following pairs is correct?",
+      "optionA": "Rock shelter : Langhnaj",
+      "optionB": "Microlith : Mahadaha",
+      "optionC": "Site associated with : Lekhahia butchering",
+      "optionD": "Stone tool : Isampur workshop",
+      "correctAnswer": "D",
+      "explanation": "Pair (d) is correct. Stone tool workshop Isampur.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 866,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "10. Match List-I with List-II and select the correct answer from the codes given below:",
+      "optionA": "A-2, B-1, C-4, D-3",
+      "optionB": "A-3, B-2, C-4, D-1",
+      "optionC": "A-2, B-3, C-4, D-1",
+      "optionD": "A-3, B-4, C-2, D-1",
+      "correctAnswer": "A",
+      "explanation": "The correct matching is:\n\n| List-I | List-II |\n|---|---|\n| (a) Rigveda | Shakala |\n| (b) Yajurveda | Vajasaneyi |\n| (c) Samveda | Kauthum |\n| (d) Atharvaveda | Shunaka |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| (a) Rigveda | (i) Vajasaneyi |\n| (b) Yajurveda | (ii) Shakala |\n| (c) Samveda | (iii) Shunaka |\n| (d) Atharvaveda | (iv) Kauthum |",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 867,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "11. 'Indica' of Megasthenes was preserved in later Greek accounts. Which one of the following Greek travellers account is not associated with 'Indica'?",
+      "optionA": "Ktesius",
+      "optionB": "Strabo",
+      "optionC": "Arrian",
+      "optionD": "Pliny",
+      "correctAnswer": "A",
+      "explanation": "Indica of Megasthenes was preserved in later Greek accounts of Strabo. Arrian and pliny Ktesius's Account is not associated with Indica.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 868,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "12. Match List-I with List-II and select the correct answer from the codes given below:",
+      "optionA": "A-1, B-2, C-3, D-4",
+      "optionB": "A-2, B-4, C-1, D-3",
+      "optionC": "A-4, B-3, C-2, D-1",
+      "optionD": "A-3, B-1, C-4, D-2",
+      "correctAnswer": "C",
+      "explanation": "The correct matching is:\n\n| List-I | List-II |\n|---|---|\n| A. Chandragupta | Pusyagupta |\n| B. Skandagupta | Parnadatta |\n| C. Rudradaman | Suvisakha |\n| D. Ashoka | Tushaspa |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| A. Chandragupta | 1. Tushashpa |\n| B. Skandagupta | 2. Suvisakha |\n| C. Rudradaman | 3. Parnadatta |\n| D. Ashoka | 4. Pusyagupta |",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 869,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "13. St. Thomas come to India for the propagation of Christianity during the reign of",
+      "optionA": "Akbar",
+      "optionB": "Gondophernes",
+      "optionC": "Kadphises",
+      "optionD": "Jahangir",
+      "correctAnswer": "B",
+      "explanation": "Gondophernes was great ruler of Pahlav dynasty. His capital was Taxila. In 57 AD St. Thomas came to India for the propagation of Christianity.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 870,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "14. What is the correct chronological sequence of the following Buddhist sites?",
+      "optionA": "Nalanda, Nagarjunikonda, Amravati, Sanchi",
+      "optionB": "Nagarjunikonda, Sanchi, Amravati, Nalanda",
+      "optionC": "Sanchi, Amravati, Nagarjunikonda, Nalanda",
+      "optionD": "Sanchi, Nagarjunikonda, Amravati, Nalanda",
+      "correctAnswer": "C",
+      "explanation": "Chronological sequence of Buddhist sites is Sanchi (MP), Amravati (Andhra Pradesh), Nagarjunikonda (Andhra Pradesh), Nalanda (Bihar).",
+      "questionType": "CHRONOLOGY",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 871,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "15. Who among the following officers was not a functionary under the Mauryan Administration?",
+      "optionA": "Pradeshas",
+      "optionB": "Rajukas",
+      "optionC": "Yuktas",
+      "optionD": "Nayakas",
+      "correctAnswer": "D",
+      "explanation": "Nayakas was not official in Mauryan administration Pradeshas, Rajuka and Yukta were mauryan officials. Nayaka was commander of army in Vijayangar Kingdom.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 872,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-II",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "16. Given below are two statements, one is labelled as Assertion (A) and the other is labelled as Reason (R):\nAssertion (A) : With the establishment of Turkish rule, the art of history writing was firmly established in India.\nReason (R) : The Sultanate period witnessed development of paper industry in India.\nIn the context of the above two statements, which one of the following is correct?",
+      "optionA": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "optionB": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+      "optionC": "(A) is true, but (R) is false.",
+      "optionD": "(A) is false, but (R) is true.",
+      "correctAnswer": "B",
+      "explanation": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+      "questionType": "ASSERTION_REASON",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 873,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "17. Who proclaimed that the mason and stone cutters of Delhi were superior to their fellow craftsmen in the whole Muslim World?",
+      "optionA": "Amir Khusro",
+      "optionB": "Minhaj-us-Siraj",
+      "optionC": "Ibn Batuta",
+      "optionD": "Isami",
+      "correctAnswer": "A",
+      "explanation": "Amir Khusro proclaimed that the mason and stone cutters of Delhi were superior to their fellow craftsmen in the whole Muslim World.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 874,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "18. Who among the following used to look after the army during the Sultanate period?",
+      "optionA": "Naib",
+      "optionB": "Wazir",
+      "optionC": "Qazi",
+      "optionD": "Ariz-i Mamaliq",
+      "correctAnswer": "D",
+      "explanation": "In Sultanate period army was look after by Ariz-i Mamaliq. Department of Ariz-i Mamaliq was founded by Balban. Works associated with this department was keeping records of soldiers, horses etc.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 875,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "19. The country is for the most part well cultivated, very fertile, the troops amount in number to eleven lakhs. Who made the above statement in respect of Vijayanagara State?",
+      "optionA": "Nuniz",
+      "optionB": "Abdur Razzak",
+      "optionC": "Nicolo Conti",
+      "optionD": "D. Barbosa",
+      "correctAnswer": "B",
+      "explanation": "Abdur Razzak was ambassador of Iran. He visited Vijayanagar in ruling period of Devaraya II. He appraised Vijayanagar by saying that \"The country is for the most part well cultivated, very fertile, the troops amount in number to eleven lakhs\".",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 876,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "20. Who among the following opined that 'A woman cannot acquit herself well as a ruler for she is essentially deficient in intellect'?",
+      "optionA": "Minhaj-us-Siraj",
+      "optionB": "Ziyauddin Barni",
+      "optionC": "Isami",
+      "optionD": "Yahya Bin Ahmad",
+      "correctAnswer": "C",
+      "explanation": "Isami opined that 'A woman cannot acquit herself well as a ruler for she is essentially deficient in intellect'.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 877,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "21. Consider the following statements about Sher Shah Suri:\n1. Sher Shah established an empire extending from Afghanistan to Orissa.\n2. His use of Hindavi language in administration was a measure of his practical sense.\n3. He enforced law and order with heavy hand.\n4. He withdrew the circulation of gold coins.\nWhich of the above statements are correct? Select the correct answer from the codes given below:",
+      "optionA": "1, 2 and 3",
+      "optionB": "2, 3 and 4",
+      "optionC": "1, 3 and 4",
+      "optionD": "1, 2 and 4",
+      "correctAnswer": "A",
+      "explanation": "Statements 1, 2 and 3 are correct about Sher Shah Suri. He did not withdraw the circulation of gold coins.",
+      "questionType": "MULTIPLE_STATEMENT",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 878,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "22. Arrange the following in correct chronological order and select the correct answer from the codes given below:\n1. Battle of Khanwa\n2. Battle of Palkhed\n3. Battle of Chausa\n4. Battle of Dharmat",
+      "optionA": "1, 3, 4, 2",
+      "optionB": "3, 1, 2, 4",
+      "optionC": "2, 1, 4, 3",
+      "optionD": "4, 2, 3, 1",
+      "correctAnswer": "A",
+      "explanation": "Chronological order of battles:\nBattle of Khanwa - 1527 AD\nBattle of Chausa - 1539 AD\nBattle of Dharmat - 1658 AD\nBattle of Palkhed - 1727 AD",
+      "questionType": "CHRONOLOGY",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 879,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "23. Which of the following historical accounts was not written during the reign of Akbar?",
+      "optionA": "Tarikh-i Firishta",
+      "optionB": "Humayunnama",
+      "optionC": "Tarikh-i- Shershahi",
+      "optionD": "Tabaqat-i Akbari",
+      "correctAnswer": "A",
+      "explanation": "Tarikh-i Firishta was composed by Hindu Beg. This book was not composed in reign of Akbar. Humayunnama, Tarikh-i Shershahi and Tabaqat-i-Akbari have been composed during rule of Akbar.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 880,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "24. Which of the following historians writes that Nur Jahan's \"relations and connections were exalted by favours of all kind\"?",
+      "optionA": "Motamad Khan",
+      "optionB": "Inayat Khan",
+      "optionC": "Khwaja Kamgar Khan",
+      "optionD": "Abdul Hamid Lahori",
+      "correctAnswer": "A",
+      "explanation": "Motamad Khan wrote in his book Iqbalnama-i-Jahangiri that Nur Jahan's relations and connections were exalted by favours of all kinds.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 881,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "25. Which of the following statements is true?",
+      "optionA": "Like Europe, the nobility in Mughal India was a legal category.",
+      "optionB": "The Mughal nobles were not involved in the task of administration at higher level.",
+      "optionC": "The social distinctions between the Iranis, Turanis and the Shaikhzada nobles disappeared.",
+      "optionD": "The nobles whose ancestors had been in the Mughal Imperial service for more than a generation were called Khanazads.",
+      "correctAnswer": "D",
+      "explanation": "Statement (d) is correct that the nobles whose ancestors had been in the Mughal Imperial service for more than a generation were called Khanazads.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 882,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "26. Match List-I with List-II and select the correct answer from the code given below:",
+      "optionA": "A-4, B-2, C-1, D-3",
+      "optionB": "A-4, B-2, C-3, D-1",
+      "optionC": "A-2, B-4, C-1, D-3",
+      "optionD": "A-2, B-4, C-3, D-1",
+      "correctAnswer": "A",
+      "explanation": "The correct matching is:\n\n| List-I | List-II |\n|---|---|\n| A. Francois Bernier | A French physician who visited India during the reign of Aurangzeb and believed that King was the owner of all land in India. |\n| B. Tavernier | A French traveller who was a jeweller by profession and who was in India during the reigns of Shah Jahan and Aurangzeb |\n| C. Pelsaert | A Dutch traveller who visited India during the reign of Jahangir. |\n| D. Ralph Fitch | An Englishman who visited India during the reign of Akbar |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| A. Francois Bernier | 1. A Dutch traveller who visited India during the reign of Jahangir. |\n| B. Tavernier | 2. A French traveller who was a jeweller by profession and who was in India during the reigns of Shah Jahan and Aurangzeb |\n| C. Pelsaert | 3. An Englishman who visited India during the reign of Akbar |\n| D. Ralph Fitch | 4. A French physician who visited India during the reign of Aurangzeb and believed that King was the owner of all land in India. |",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 883,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "27. Match List-I with List-II and select the correct answer from the code given below:",
+      "optionA": "A-4, B-2, C-1, D-3",
+      "optionB": "A-2, B-4, C-1, D-3",
+      "optionC": "A-2, B-1, C-4, D-3",
+      "optionD": "A-3, B-1, C-4, D-2",
+      "correctAnswer": "B",
+      "explanation": "The correct matching is:\n\n| List-I | List-II |\n|---|---|\n| A. Ijara | The system of revenue farming |\n| B. Hasil | Actually realised revenue under the Mughals |\n| C. Ghalla Bakhshi | A method of land revenue assessment and collection under the Mughals |\n| D. Nabud | Area under crop failure |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| A. Ijara | 1. A method of land revenue assessment and collection under the Mughals |\n| B. Hasil | 2. The system of revenue farming |\n| C. Ghalla bakhshi | 3. Area under crop failure |\n| D. Nabud | 4. Actually realised revenue under the Mughals |",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 884,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "28. Given below are two statements, one is labelled as Assertion (A) and the other is labelled as Reason (R):\nAssertion (A) : In military terms Aurangzeb's reign was undistinguished.\nReason (R) : He could not subjugate the Marathas.\nIn the context of the above two statements, which one of the following is correct?",
+      "optionA": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "optionB": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+      "optionC": "(A) is true, but (R) is false.",
+      "optionD": "(A) is false, but (R) is true.",
+      "correctAnswer": "D",
+      "explanation": "(A) is false, but (R) is true.",
+      "questionType": "ASSERTION_REASON",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 885,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "29. The reality of Mughal centralized power is one matter, whether it was 'good or bad' quite another'? Who made the above statement?",
+      "optionA": "J.F. Richards",
+      "optionB": "Irfan Habib",
+      "optionC": "Satish Chandra",
+      "optionD": "Jadunath Sarkar",
+      "correctAnswer": "A",
+      "explanation": "J.F. Richards stated 'The reality of Mughal centralized power is one matter, whether it was 'good or bad' quite another'.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 886,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "30. Match List-I with List-II and select the correct answer from the code given below:",
+      "optionA": "A-2, B-3, C-1, D-4",
+      "optionB": "A-2, B-3, C-4, D-1",
+      "optionC": "A-3, B-2, C-4, D-1",
+      "optionD": "A-3, B-2, C-1, D-4",
+      "correctAnswer": "B",
+      "explanation": "The correct matching is:\n\n| List-I | List-II |\n|---|---|\n| A. Department of Royal Household and Court Affairs | Mantri |\n| B. Department of Foreign Affairs | Sumant |\n| C. Department of Royal Correspondence | Sachiv |\n| D. Finance Department | Amatya |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I | List-II |\n|---|---|\n| A. Department of Royal Household and Court Affairs | 1. Amatya |\n| B. Department of Foreign Affairs | 2. Mantri |\n| C. Department of Royal Correspondence | 3. Sumant |\n| D. Finance Department | 4. Sachiv |",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 887,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IV",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "31. Given below are two statements, one is labelled as Assertion (A) and the other is labelled as Reason (R):\nAssertion (A) : Weak statesmen and incompetent commanders were responsible for the rapid disintegration of the Mughal Empire in the first half of the Eighteenth century.\nReason (R) : The Mughal statesmen and nobles of this period were preoccupied with their own interest and had little concern for the fate of the Empire.\nIn the context of the above two statements, which one of the following is correct?",
+      "optionA": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "optionB": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+      "optionC": "(A) is true, but (R) is false.",
+      "optionD": "(A) is false, but (R) is true.",
+      "correctAnswer": "A",
+      "explanation": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "questionType": "ASSERTION_REASON",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 888,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-VIII",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "32. The only major industry in the hands of Indian capitalists during the late nineteenth century was",
+      "optionA": "Cotton textile",
+      "optionB": "Jute",
+      "optionC": "Iron and steel",
+      "optionD": "None of the above",
+      "correctAnswer": "A",
+      "explanation": "The only major industry in the hands of Indian capitalists during the late nineteenth century was cotton textile.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 889,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "33. A young Maharashtra who joined the revolutionary movement in Punjab was:",
+      "optionA": "Sukhdev",
+      "optionB": "Rajguru",
+      "optionC": "Namdev",
+      "optionD": "Vasudev",
+      "correctAnswer": "B",
+      "explanation": "Rajguru was a young Maharashtra who joined the revolutionary movement in Punjab. Full name of Rajguru was Shivramhari Rajguru he was born on 24 August, 1908 in Pune. Sukhdev and Rajguru hanged in March 1931.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 890,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "34. Who stated that the object of the political dacoities must be to secure money belonging to the Government?",
+      "optionA": "Ramprasad Bismil",
+      "optionB": "Surya Sen",
+      "optionC": "Pritilata Waddedar",
+      "optionD": "Sukhdev",
+      "correctAnswer": "A",
+      "explanation": "Ramprasad Bismil stated that the object of the political dacoities must be to secure money belonging to the Government.\nRamprasad Bismil with his companions looted 10 down train in Kakori.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 891,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-VII",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "35. Arrange the following in correct chronological order and select the correct answer with the help of the code given below:\n1. Minto\n2. John Shore\n3. Cornwallis\n4. Warren Hastings",
+      "optionA": "4, 2, 1, 3",
+      "optionB": "3, 2, 4, 1",
+      "optionC": "1, 2, 3, 4",
+      "optionD": "4, 3, 2, 1",
+      "correctAnswer": "D",
+      "explanation": "Chronological order of governor general-\nWarren Hastings (1774-85 AD)\nCornwallis (1786-99 and 1805 AD)\nJohn Shore (1793-98 AD)\nLord Minto (1807-1813 AD)",
+      "questionType": "CHRONOLOGY",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 892,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-VII",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "36. Who commenced 'Oriental learning, is inferior to European learning?",
+      "optionA": "Charles Wood",
+      "optionB": "William Carrey",
+      "optionC": "Lord Macaulay",
+      "optionD": "William Hunter",
+      "correctAnswer": "C",
+      "explanation": "Lord Macaulay commenced 'Oriental learning, is inferior to European learning'. Macaulay issued a Minute in 1835 in this Minute Macaulay proposed English education.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 893,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "37. Who were called 'Neo Nationalists'?",
+      "optionA": "Moderators",
+      "optionB": "Swarajists",
+      "optionC": "Extremists",
+      "optionD": "Revolutionaries",
+      "correctAnswer": "C",
+      "explanation": "Extremists were called 'Neo Nationalists'.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 894,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-VII",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "38. Who set up the Agricultural Research Institute at Pusa?",
+      "optionA": "Lytton",
+      "optionB": "Rippon",
+      "optionC": "Curzon",
+      "optionD": "Minto",
+      "correctAnswer": "C",
+      "explanation": "Curzon set up the Agricultural Research Institute at Pusa. Lord Curzon was governor from 1899-1905. Curzon established Irrigation Commission in the chairmanship of Sir Moncrieff.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 895,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-VII",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "39. Match List-I with List-II and select the correct answer from the code given below:",
+      "optionA": "A-3, B-1, C-4, D-2",
+      "optionB": "A-1, B-4, C-2, D-3",
+      "optionC": "A-4, B-2, C-3, D-1",
+      "optionD": "A-1, B-3, C-2, D-4",
+      "correctAnswer": "A",
+      "explanation": "The correct matching is:\n\n| List-I | List-II |\n|---|---|\n| Famine Commission 1899 | Anthony MacDonnell |\n| Railway Commission 1901 | Thomas Robertson |\n| Irrigation Commission 1901 | Sir Colin Scott Moncrieff |\n| Universities Commission 1902 | Thomas Raleigh |",
+      "questionType": "TABLE",
+      "tableDataJson": "| List-I (Commission) | List-II (Chairman) |\n|---|---|\n| A. Famine Commission 1899 | 1. Thomas Robertson |\n| B. Railway Commission 1901 | 2. Thomas Raleigh |\n| C. Irrigation Commission 1901 | 3. Anthony MacDonnell |\n| D. Universities Commission 1902 | 4. Sir Colin Scott Moncrieff |",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Hard",
+      "cognitiveLevel": "Application",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 896,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "40. Who of the following poets wrote in praise of Russian Revolution of 1917?",
+      "optionA": "Subramanya Bharati",
+      "optionB": "Muhammad Iqbal",
+      "optionC": "Sarojini Naidu",
+      "optionD": "Rabindranath Tagore",
+      "correctAnswer": "A",
+      "explanation": "Subramanya Bharati wrote poem in praise of Russian Revolution of 1917.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 897,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "41. In which year Dacca Anushilan Samiti was founded?",
+      "optionA": "1902",
+      "optionB": "1903",
+      "optionC": "1904",
+      "optionD": "1905",
+      "correctAnswer": "D",
+      "explanation": "Dacca Anushilan Samiti was founded in 1905 by Barindra Kumar Ghosh and Bhupendranath Dutt. Midnapur Anusilan Samiti founded by Gyanendra Nath Bose in 1902.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 898,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "42. Who among the following said, \"For me every tiniest activity is governed by what I consider to be my religion\"?",
+      "optionA": "Swami Vivekanand",
+      "optionB": "V.D. Savarkar",
+      "optionC": "Mahatma Gandhi",
+      "optionD": "Subhash Chandra Bose",
+      "correctAnswer": "C",
+      "explanation": "Mahatma Gandhi said, \"For me every tiniest activity is governed by what I consider to be my religion\".",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 899,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "43. The All India Women's Conference was started in 1927 to",
+      "optionA": "promote women's education",
+      "optionB": "increase women's share in the legislatures",
+      "optionC": "enhance women's employment",
+      "optionD": "campaign for women's voting rights",
+      "correctAnswer": "A",
+      "explanation": "The All India Women's Conference was started in 1927 to promote women's education.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 900,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "44. Who of the following led a delegation of London to demand Female Franchise?",
+      "optionA": "Annie Beasant",
+      "optionB": "Sucheta Kripalani",
+      "optionC": "Sarla Devi",
+      "optionD": "Sarojini Naidu",
+      "correctAnswer": "A",
+      "explanation": "Annie Beasant led a delegation of London to demand Female Franchise. Annie Beasant founded Home rule league in 1916. She was first woman president of congress.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 901,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "45. Which of the following is not true of the Cabinet Mission plan?",
+      "optionA": "It rejected the creation of a separate State of Pakistan.",
+      "optionB": "It recognized India's right to secede from the Commonwealth.",
+      "optionC": "All members of the Indian Cabinet are to be Indians.",
+      "optionD": "It gave scope to the communal representation",
+      "correctAnswer": "D",
+      "explanation": "Statement (d) is not correct about cabinet mission plan that it gave scope to the communal representation.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 902,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "46. The Nehru-Liaqat Pact between India and Pakistan was signed in 1950 to resolve the issue of",
+      "optionA": "Protection of Minorities",
+      "optionB": "The accession of the Princely States",
+      "optionC": "The Border disputes",
+      "optionD": "Foreign Relations",
+      "correctAnswer": "A",
+      "explanation": "The Nehru-Liaqat Pact between India and Pakistan was signed in 1950 to resolve the issue of Protection of Minorities.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 903,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-IX",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "47. Where was Panchayat Raj first introduced?",
+      "optionA": "Tamil Nadu",
+      "optionB": "Rajasthan",
+      "optionC": "Maharashtra",
+      "optionD": "Andhra Pradesh",
+      "correctAnswer": "B",
+      "explanation": "Panchayat Raj first introduced in 1959 in Nagaur district of Rajasthan, Panchayati raj given constitutional status by 73rd amendment in 1992.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 904,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-X",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "48. Which one of the following statements is not correct about Black Death?",
+      "optionA": "The blood sucking fleas, that lived on black rats were responsible for the spread of Black Death.",
+      "optionB": "Plague was called Black Death because of the deadly black swellings it caused.",
+      "optionC": "The terrible disease was transmitted from Asia to Europe in the fifteenth century.",
+      "optionD": "People thought that God had sent the Black Death as a punishment for their sins.",
+      "correctAnswer": "C",
+      "explanation": "Statement (c) is not correct about Black death that the terrible disease was transmitted from Asia to Europe in the fifteenth century.",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 905,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-X",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "49. Given below are two statements, one is labelled as Assertion (A) and the other is labelled as Reason (R):\nAssertion (A) : Civilization in all its varied aspects constitutes the subject-matter of history.\nReason (R) : Such a cultural approach to history would make it a biography of civilization.\nIn the context of the above two statements, which one of the following is correct?",
+      "optionA": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "optionB": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+      "optionC": "(A) is true, but (R) is false.",
+      "optionD": "(A) is false, but (R) is true.",
+      "correctAnswer": "A",
+      "explanation": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+      "questionType": "ASSERTION_REASON",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
+      "difficulty": "Medium",
+      "cognitiveLevel": "Recall",
+      "createdAtTimestamp": 1790664950833,
+      "customOrder": 0
+    },
+    {
+      "id": 906,
+      "userId": "maxy",
+      "paperType": "HISTORY",
+      "unitName": "Unit-X",
+      "year": "2014",
+      "testName": "UGC NET\/JRF Exam, June 2014 History Paper-II",
+      "questionText": "50. Who amongst the following medieval historiographers pronounced that : \"Prejudice and partisanship obscure the critical faculty and prelude critical investigation\"?",
+      "optionA": "Al beruni",
+      "optionB": "Minhaj-us Siraj",
+      "optionC": "Ibn Khaldoun",
+      "optionD": "Ziyauddin Barni",
+      "correctAnswer": "C",
+      "explanation": "Ibn Khaldoun in his book \"Tahkik-i-hind\" pronounced that \"Prejudice and partisanship obscure the critical faculty and prelude critical investigation\".",
+      "questionType": "MCQ",
+      "tableDataJson": "",
+      "graphImageUrl": "",
+      "repeatYears": "2014",
       "difficulty": "Medium",
       "cognitiveLevel": "Recall",
       "createdAtTimestamp": 1790664950833,
